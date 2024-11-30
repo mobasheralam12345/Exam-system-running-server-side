@@ -1,0 +1,1101 @@
+{
+    "year": 41,
+    "subjects": [
+        {
+            "subject_name": "বাংলা",
+            "questions":[
+    
+    {
+      "question": "কোনটি শুদ্ধ বানান?",
+      "options": ["প্রজ্বল", "প্রোজ্জল", "প্রোজ্বল", "প্রোজ্জল"],
+      "answer": "প্রোজ্জল"
+    },
+    {
+      "question": "‘জোছনা’ কোন শ্রেণির শব্দ?",
+      "options": ["যৌগিক", "তৎসম", "দেশী", "অর্ধ-তৎসম"],
+      "answer": "তৎসম"
+    },
+    {
+      "question": "‘জিজীবিষা’ শব্দটি দিয়ে বোঝায়-",
+      "options": ["জয়ের ইচ্ছা", "হত্যার ইচ্ছা", "বেঁচে থাকার ইচ্ছা", "শোনার ইচ্ছা"],
+      "answer": "হত্যার ইচ্ছা"
+    },
+    {
+      "question": "“সর্বাঙ্গীণ” শব্দের সঠিক প্রকৃতি-প্রত্যয়-",
+      "options": ["সবঙ্গ + ঈন", "সর্ব + অঙ্গীন", "সর্ব + ঙ্গীন", "সর্বাঙ্গ + ঈন"],
+      "answer": "সর্বাঙ্গ + ঈন"
+    },
+    {
+      "question": "অন্যের রচনা থেকে চুরি করাকে বলা হয়-",
+      "options": ["বেতসবৃত্তি", "পতঙ্গবৃত্তি", "জলৌকাবৃত্তি", "কুম্ভিলকবৃত্তি"],
+      "answer": "কুম্ভিলকবৃত্তি"
+    },
+    {
+      "question": "‘ঊর্ণনাভ’- শব্দটি দিয়ে বুঝায়-",
+      "options": ["টিকটিকি", "তেলেপোকা", "ইউপোকা", "মাকড়সা"],
+      "answer": "মাকড়সা"
+    },
+    {
+      "question": "বাংলা আধুনিক উপন্যাস-এর প্রবর্তক ছিলেন",
+      "options": ["রবীন্দ্রনাথ ঠাকুর", "প্যারীচাঁদ মিত্র", "ঈশ্বরচন্দ্র বিদ্যাসাগর", "বঙ্কিমচন্দ্র চট্টোপাধ্যায়"],
+      "answer": "বঙ্কিমচন্দ্র চট্টোপাধ্যায়"
+    },
+    {
+      "question": "কিন্তু আরম্ভের পূর্বেও আরম্ভ আছে।সন্ধ্যা বেলায় দীপ জ্বালার আগে সকাল বেলায় সলতে পাকানো বাক্যদ্বয় কোন রচনা থেকে উদ্ধৃত?",
+      "options": ["নৌকাডুবি", "চোখের বালি", "যোগাযোগ", "শেষের কবিতা"],
+      "answer": "যোগাযোগ"
+    },
+    {
+      "question": "মুক্তিযুদ্ধ ভিত্তিক উপন্যাস কোনটি?",
+      "options": ["একটি কালো মেয়ের কথা", "তেইশ নম্বর তৈলচিত্র", "আয়নামতির পালা", "ইচ্ছামতী"],
+      "answer": "একটি কালো মেয়ের কথা"
+    },
+    {
+      "question": "‘কালো বরফ’ উপন্যাসটির বিষয়:",
+      "options": ["তেভাগা আন্দোলন", "ভাষা আন্দোলন", "মুক্তিযুদ্ধ", "দেশভাগ"],
+      "answer": "দেশভাগ"
+    },
+    {
+      "question": "‘ঢাকা প্রকাশ’ সাপ্তাহিক পত্রিকাটির সম্পাদক কে?",
+      "options": ["কৃষ্ণচন্দ্র মজুমদার", "রামানন্দ চট্টোপাধ্যায়", "শামসুর রাহমান", "সিকান্দার আবু জাফর"],
+      "answer": "কৃষ্ণচন্দ্র মজুমদার"
+    },
+    {
+      "question": "‘জীবনস্মৃতি’ কার রচনা?",
+      "options": ["ঈশ্বরচন্দ্র বিদ্যাসাগর", "রবীন্দ্রনাথ ঠাকুর", "বিভূতিভূষণ বন্দ্যোপাধ্যায়", "রোকেয়া সাখাওয়াত হোসেন"],
+      "answer": "রবীন্দ্রনাথ ঠাকুর"
+    },
+    {
+      "question": "দীনবন্ধু মিত্রের ‘নীলদর্পণ’ নাটকটি ইংরেজিতে অনুবাদ করেন কে?",
+      "options": ["প্যারীচাঁদ মিত্র", "মাইকেল মধুসূদন দত্ত", "প্রথম চৌধুরী", "দ্বিজেন্দ্রলাল রায়"],
+      "answer": "মাইকেল মধুসূদন দত্ত"
+    },
+    {
+      "question": "“সকালে উঠিয়া আমি মনে মনে বলি, সারাদিন আমি যেন ভালো হয়ে চলি” চরণ দুটির রচয়িতা কে?",
+      "options": ["চণ্ডীচরণ মুনশী", "কাজী নজরুল ইসলাম", "রবীন্দ্রনায় ঠাকুর", "মদনমোহন তর্কালঙ্কার"],
+      "answer": "মদনমোহন তর্কালঙ্কার"
+    },
+    {
+      "question": "চর্যাপদে কোন ধর্মমতের কথা আছে?",
+      "options": ["খ্রীষ্টধর্ম", "প্যাগনিজম", "জৈনধর্ম", "বৌদ্ধধর্ম"],
+      "answer": "বৌদ্ধধর্ম"
+    },
+    {
+      "question": "শরতের শিশির-বাগধারা শব্দটির অর্থ কী?",
+      "options": ["সুসময়ের বন্ধু", "সুসময়ের সঞ্চয়", "শরতের শোভা", "শরতের শিউলি ফুল"],
+      "answer": "সুসময়ের বন্ধু"
+    },
+    {
+      "question": "শিব রাত্রির সলতে-বাগধারাটির অর্থ কী?",
+      "options": ["শিবরাত্রির আলো", "একমাত্র সঞ্চয়", "একমাত্র সন্তান", "শিবরাত্রির গুরত্ব"],
+      "answer": "একমাত্র সন্তান"
+    },
+    {
+      "question": "“প্রোষিতভর্তৃকা”- শব্দটির অর্থ কী?",
+      "options": ["ভৎসনাপ্রাপ্ত তরুণী", "যে নারীর স্বামী বিদেশে অবস্থান করে", "ভূমিতে প্রোথিত তরুমূল", "যে বিবাহিতা নারী পিত্রালয়ে অবস্থান করে।"],
+      "answer": "যে বিবাহিতা নারী পিত্রালয়ে অবস্থান করে।"
+    },
+    {
+      "question": "উল্লিখিতদের মধ্যে কে প্রাচীন যুগের কবি নন?",
+      "options": ["কাহপাদ", "লুইপাদ", "শান্তিপাদ", "রমনীপাদ"],
+      "answer": "কাহপাদ"
+    },
+    {
+      "question": "উল্লিখিত কোন রচনাটি পুঁথি সাহিত্যের অন্তর্গত নয়?",
+      "options": ["ময়মনসিংহ গীতিকা", "ইউসুফ জুলেখা", "পদ্মাবতী", "লাইলী মজনু"],
+      "answer": "ময়মনসিংহ গীতিকা"
+    },
+    {
+      "question": "জীবনীকাব্য রচনার জন্য বিখ্যাত :",
+      "options": ["ফকির গরীবুল্লাহ", "নরহরি চক্রবর্তী", "বিপ্রদাস পিপিলাই", "বৃন্দাবন দাস"],
+      "answer": "বৃন্দাবন দাস"
+    },
+    {
+      "question": "বৈষ্ণব পদাবলির সঙ্গে কোন ভাষা সম্পর্কিত?",
+      "options": ["সন্ধ্যাভাষা", "অধিভাষা", "ব্রজবুলি", "সংস্কৃত ভাষা"],
+      "answer": "ব্রজবুলি"
+    },
+    {
+      "question": "জসীম উদ্দীনের রচনা কোনটি?",
+      "options": ["যাদের দেখেছি", "পথে-প্রবাসে", "কাল নিরবধি", "ভবিষ্যতের বাঙালী"],
+      "answer": "যাদের দেখেছি"
+    },
+    {
+      "question": "‘কিন্তু মানুষ কখনো পাষাণ হয় না’- উক্তিটি কোন উপন্যাসের?",
+      "options": ["রবীন্দ্রনাথের ‘চোখের বালি’", "শরৎচন্দ্রের ‘পথের দাবী’", "শওকত ওসমানের ‘ক্রীতদাসের হাসি’।", "বঙ্কিমচন্দ্রের ‘রাজসিংহ’"],
+      "answer": "বঙ্কিমচন্দ্রের ‘রাজসিংহ’"
+    },
+    {
+      "question": "ইয়ংবেঙ্গল গোষ্ঠীভুক্ত ছিলেন কে?",
+      "options": ["অক্ষয় কুমার দত্ত", "এন্টনি ফিরঙ্গি", "মাইকেল মধুসূদন দত্ত", "কালীপ্রসন্ন সিংহ ঠাকুর"],
+      "answer": "এন্টনি ফিরঙ্গি"
+    },
+    {
+      "question": "‘বিদ্রোহী’ কবিতাটি কোন সনে প্রথম প্রকাশিত হয়?",
+      "options": ["১৯২৩ সন", "১৯২১ সন", "১৯১৯ সন", "১৯১৮ সন"],
+      "answer": "১৯২১ সন"
+    },
+    {
+      "question": "‘আগুন পাখি’- উপন্যাসটির রচয়িতা কে?",
+      "options": ["রাহাত খান", "হাসান আজিজুল হক", "সেলিনা হোসেন", "ইমদাদুল হক মিলন"],
+      "answer": "হাসান আজিজুল হক"
+    },
+    {
+      "question": "‘একুশে ফেব্রুয়ারি’র বিখ্যাত গানটির সুরকার কে?",
+      "options": ["সুবীর সাহা", "সুধীন দাস", "আলতাফ মাহমুদ", "আলতাম মামুন"],
+      "answer": "আলতাফ মাহমুদ"
+    },
+    {
+      "question": "বাক্যের ক্রিয়ার সাথে অন্যান্য পদের যে সম্পর্ক তাকে কী বলে?",
+      "options": ["বিভক্তি", "কারক", "প্রত্যয়", "অনুসর্গ"],
+      "answer": "কারক"
+    },
+    {
+      "question": "‘গীর্জা’ কোন ভাষার অন্তর্গত শব্দ?",
+      "options": ["ফারসী", "পর্তুগীজ", "ওলন্দাজ", "পাঞ্জাবী"],
+      "answer": "পর্তুগীজ"
+    },
+    {
+      "question": "কোন শব্দযুগল বিপরীতার্থক নয়?",
+      "options": ["ঐচ্ছিক-অনাবশ্যিক", "কুটিল-সরল", "কম-বেশি", "কদাচার-সদাচার"],
+      "answer": "ঐচ্ছিক-অনাবশ্যিক"
+    },
+   
+  {
+    "question": "'একমাত্র মানুষ' কে লিখেছেন?",
+    "options": ["রবীন্দ্রনাথ ঠাকুর", "মাইকেল মধুসূদন দত্ত", "শরৎচন্দ্র চট্টোপাধ্যায়", "সেলিনা হোসেন"],
+    "answer": "শরৎচন্দ্র চট্টোপাধ্যায়"
+  },
+  {
+    "question": "বাংলা সাহিত্যের প্রাথমিক রূপ কোনটি?",
+    "options": ["বৈষ্ণব পদাবলী", "মঙ্গলকাব্য", "মহাকাব্য", "পল্লীগীতি"],
+    "answer": "মঙ্গলকাব্য"
+  },
+  {
+    "question": "কবি আলাওলের জন্মস্থান কোথায়?",
+    "options": ["ফরিদপুরের সুরেশ্বর", "চট্টগ্রামের জোব্ রা", "বার্মার আরাকান", "ফতেহাবাদ পরগনা"],
+    "answer": "ফতেহাবাদ পরগনা"
+  },
+  {
+    "question": "‘অনল-প্রবাহ’ রচনা করেন-",
+    "options": ["সৈয়দ ইসমাইল হোসেন সিরাজি", "মজাম্মেল হক", "এয়াকুব আলী চৌধুরী", "মুনিরুজ্জামান ইসলামাবাদি"],
+    "answer": "সৈয়দ ইসমাইল হোসেন সিরাজি"
+  }
+  ]
+        },
+        {
+            "subject_name": "English",
+            "questions": [
+             
+  {
+    "question": "Tennyson’s ‘In Memoriam’ is an elegy on the death of-",
+    "options": ["John Milton", "John Keats", "Arthur Henry Hallam", "Sydney Smith"],
+    "answer": "Arthur Henry Hallam"
+  },
+  {
+    "question": "Identify the word which is spelt incorrectly:",
+    "options": ["consciencious", "perseverance", "Convalescence", "maintenance"],
+    "answer": "consciencious"
+  },
+  {
+    "question": "‘You look terrific in that dress!’ The word ‘Terrific’ in the above sentence means",
+    "options": ["Excellent", "funny", "very ugly", "horrible"],
+    "answer": "Excellent"
+  },
+  {
+    "question": "Someone who is capricious is-",
+    "options": ["easily irritated", "wise and willing to cooperate", "exceedingly conceited and arrogant", "known for sudden changes in attitude or behaviour"],
+    "answer": "easily irritated"
+  },
+  {
+    "question": "Which one of the following words is masculine?",
+    "options": ["mare", "lad", "pillow", "pony"],
+    "answer": "lad"
+  },
+  {
+    "question": "A man whose wife has died is called a-",
+    "options": ["widow", "widower", "spinster", "bachelor"],
+    "answer": "widower"
+  },
+  {
+    "question": "Which word is similar to ‘appal’?",
+    "options": ["deceive", "confuse", "dismay", "solicit"],
+    "answer": "dismay"
+  },
+  {
+    "question": "Which word means the opposite of ‘dearth’?",
+    "options": ["lack", "abundance", "poverty", "shortage"],
+    "answer": "abundance"
+  },
+  {
+    "question": "Identify the word which remains the same in its plural form:",
+    "options": ["aircraft", "intention", "mouse", "thesis"],
+    "answer": "aircraft"
+  },
+  {
+    "question": "Identify the determiner in the following sentence: ‘I have no news for you!’",
+    "options": ["have", "news", "no", "for"],
+    "answer": "no"
+  },
+  {
+    "question": "‘A lost opportunity never returns.’ Here ‘lost’ is a-",
+    "options": ["Gerund", "verbal noun", "gerundial infinitive", "participle"],
+    "answer": "participle"
+  },
+  {
+    "question": "The saying ‘enough is enough’ is used when you want-",
+    "options": ["something to continue", "something to stop", "something to continue until it’s enough", "to tell instructions are clear"],
+    "answer": "something to stop"
+  },
+  {
+    "question": "‘He ran with great speed.’",
+    "options": ["noun phrase", "adverb phrase", "adjective phrase", "participle phrase"],
+    "answer": "adverb phrase"
+  },
+  {
+    "question": "‘We must not be late, else we will miss the train.’ This is a-",
+    "options": ["compound sentence", "complex sentence", "simple sentence", "interrogative sentence"],
+    "answer": "compound sentence"
+  },
+  {
+    "question": "Change the voice : “Who is calling me?”",
+    "options": ["By whom am I called?", "By whom I am called?", "By whom am I being called?", "Whom am I called by?"],
+    "answer": "By whom am I being called?"
+  },
+  {
+    "question": "An extra message added at the end of a letter after it is signed is called-",
+    "options": ["Corrigendum", "postscript", "NB", "RSVP"],
+    "answer": "postscript"
+  },
+  {
+    "question": "‘Sweet Helen make me immortal with a kiss.’ The sentence has been taken from the play-",
+    "options": ["Romeo and Juliet", "Caesar and Cleopatra", "Doctor Faustus", "Antony and Cleopatra"],
+    "answer": "Doctor Faustus"
+  },
+  {
+    "question": "‘What’s in a name? That which we call a rose By any other name would smell as sweet.’ – Who said this?",
+    "options": ["Juliet", "Romeo", "Portia", "Rosalind"],
+    "answer": "Juliet"
+  },
+  {
+    "question": "‘Man’s love is of man’s life a thing apart, Tis woman’s whole existence.’ – This is taken from the poem of-",
+    "options": ["P. B. Shelley", "Lord Byron", "John Keats", "Edmund Spenser"],
+    "answer": "Lord Byron"
+  },
+  {
+    "question": "Who translated the ‘Rubaiyat of Omar Khayyam’ into English?",
+    "options": ["Thomas Carlyle", "Edward Fitzgerald", "D. G. Rossetti", "William Thackeray"],
+    "answer": "Edward Fitzgerald"
+  },
+  {
+    "question": "‘Ulysses’ is a novel written by-",
+    "options": ["Joseph Conrad", "Thomas Hardy", "Charles Dickens", "James Joyce"],
+    "answer": "James Joyce"
+  },
+  {
+    "question": "The short story ‘The Diamond Necklace’ was written by-",
+    "options": ["Guy de Maupassant", "O. Henry", "Somerset Maugham", "George Orwell"],
+    "answer": "Guy de Maupassant"
+  },
+  {
+    "question": "‘All the perfumes of Arabia will not sweeten this little hand.’ – Who said this?",
+    "options": ["Macbeth", "Lady Macbeth", "Lady Macduff", "Macduff"],
+    "answer": "Lady Macbeth"
+  },
+  {
+    "question": "Where are the songs of Spring? Aye, where are they? Think not of them, thou hast thy music too.’ – Who wrote this?",
+    "options": ["William Wordsworth", "Robert Browning", "John Keats", "Samuel Coleridge"],
+    "answer": "John Keats"
+  },
+  {
+    "question": "Who is the central character of ‘Wuthering Heights’ by Emily Bronte?",
+    "options": ["Mr. Earnshaw", "Catherine", "Heathcliff", "Hindley Earnshaw"],
+    "answer": "Heathcliff"
+  },
+  {
+    "question": "‘The old order changeth, yielding place to new.’ – This line is extracted from Tennyson’s poem-",
+    "options": ["The Lotos-Eaters", "Tithonus", "Locksley Hall", "Morte d'Arthur"],
+    "answer": "Morte d'Arthur"
+  },
+  {
+    "question": "Who wrote the poem ‘The Good-Morrow’?",
+    "options": ["George Herbert", "Andrew Marvell", "John Donne", "Henry Vaughan"],
+    "answer": "John Donne"
+  },
+  {
+    "question": "‘Please write to me at the above address.’ The word ‘above’ in this sentence is a/an-",
+    "options": ["noun", "adjective", "pronoun", "adverb"],
+    "answer": "noun"
+  },
+  {
+    "question": "In which sentence is the word ‘past’ used as a preposition?",
+    "options": [
+      "Writing letters is a thing of the past.",
+      "I look back on the past without regret.",
+      "I called out to him as he ran past.",
+      "Tania was a wonderful singer, but she’s past her prime."
+    ],
+    "answer": "Tania was a wonderful singer, but she’s past her prime."
+  },
+  {
+    "question": "The word ‘sibling’ means-",
+    "options": ["a brother", "a sister", "a brother or sister", "an infant"],
+    "answer": "a brother or sister"
+  },
+  {
+    "question": "Fill in the blank: As she was talking, he suddenly broke —, saying ‘That’s a lie!’",
+    "options": ["off", "in", "down", "into"],
+    "answer": "in"
+  },
+  {
+    "question": "Fill in the blank: You may go for a walk if you feel — it.",
+    "options": ["About", "on", "like", "for"],
+    "answer": "like"
+  },
+  {
+    "question": "‘The Rape of the Lock’ by Alexander Pope is a/an-",
+    "options": ["Epic", "ballad", "mock-heroic poem", "elegy"],
+    "answer": "mock-heroic poem"
+  },
+  {
+    "question": "Which of the following is not an American poet?",
+    "options": ["Robert Frost", "W.B. Yeats", "Emily Dickinson", "Langston Hughes"],
+    "answer": "W.B. Yeats"
+  },
+  {
+    "question": "William Shakespeare was born in-",
+    "options": ["1616", "1664", "1564", "1493"],
+    "answer": "1564"
+  }
+]
+
+        },
+        {
+            "subject_name": "Math",
+            "questions":[
+            
+  {
+    "question": "6x² − 7x − 4 = 0 সমীকরণে মূলদ্বয়ের প্রকৃতি কোনটি?",
+    "options": ["বাস্তব ও সমান", "বাস্তব ও অসমান", "অবাস্তব", "পূর্ণ বর্গ সংখ্যা"],
+    "answer": "বাস্তব ও অসমান"
+  },
+  {
+    "question": "চিত্রে ∠PQR=55°, ∠LRN=90° এবং PQ || MR, PQ = PR হলে, ∠NRP এর মান নিচের কোনটি?",
+    "options": ["90°", "55°", "45°", "35°"],
+    "answer": "35°"
+  },
+  {
+    "question": "P = { x:x, 12 এর গুণনীয়কসমূহ} এবং Q = { x:x, 3 এর গুণিতক এবং x ≤ 12 } হলে, P-Q = কত?",
+    "options": ["{1,2,4}", "{1,3,4}", "{1,3,6}", "{1,2,6}"],
+    "answer": "{1,2,4}"
+  },
+  {
+    "question": "x⁴ − x² + 1 = 0 হয়, তবে x³ + 1/x³ = ?",
+    "options": ["3", "2", "1", "0"],
+    "answer": "0"
+  },
+  {
+    "question": "x^x^√x = (x√x)^x হলে, x এর মান কত?",
+    "options": ["3/2", "4/9", "9/4", "2/3"],
+    "answer": "4/9"
+  },
+  {
+    "question": "নিচের কোনটি অমূলদ সংখ্যা?",
+    "options": ["0.4", "√9", "5.639", "√(27/48)"],
+    "answer": "5.639"
+  },
+  {
+    "question": "একটি মটর সাইকেল ১২% ক্ষতিতে বিক্রি করা হলো। যদি বিক্রয় মূল্য ১২০০ টাকা বেশি হতো, তবে ৮% লাভ হতো। মটর সাইকেলের ক্রয় মূল্য-",
+    "options": ["৬০০০ টাকা", "৫০০০ টাকা", "৪০০০ টাকা", "৮০০০ টাকা"],
+    "answer": "৬০০০ টাকা"
+  },
+  {
+    "question": "((০.৯)³ + (০.৪)³) / (০.৯ + ০.৪) এর মান কত?",
+    "options": ["০.৩৬", "০.৫১", "০.৮১", "০.৬১"],
+    "answer": "০.৬১"
+  },
+  {
+    "question": "3x − 2 > 2x − 1 এর সমাধান সেট কোনটি?",
+    "options": ["[1, ∞)", "(1, ∞)", "[1/2, ∞)", "[-1, ∞)"],
+    "answer": "[1/2, ∞)"
+  },
+  {
+    "question": "cos(nπ/2)) অনুক্রমটির চতুর্থ পদ কোনটি?",
+    "options": ["-1", "1", "1/2", "0"],
+    "answer": "1"
+  },
+  {
+    "question": "loga(m/n)= কত?",
+    "options": ["(logam−logan)", "(logam+logan)", "(logam X logan)", "কোনটিই নয়"],
+    "answer": "(logam−logan)"
+  },
+  {
+    "question": "একটি আয়তক্ষেত্রের দৈর্ঘ্য প্রস্থের দ্বিগুণ। আয়তক্ষেত্রটির ক্ষেত্রফল 1250 বৰ্গমিটার হলে এর দৈর্ঘ্য কত?",
+    "options": ["30 মিটার", "40 মিটার", "50 মিটার", "60 মিটার"],
+    "answer": "50 মিটার"
+  },
+  {
+    "question": "f(x) = (x3+kx2−6x−9); k-এর মান কত হলে f(3) = 0 হবে?",
+    "options": ["1", "-1", "2", "0"],
+    "answer": "0"
+  },
+  {
+    "question": "নিচের কোনটি মৌলিক সংখ্যা?",
+    "options": ["৯১", "৮৭", "৬৩", "৫৯"],
+    "answer": "৫৯"
+  },
+  {
+    "question": "3x3+2x2–21x−20 রাশিটির একটি উৎপাদক হচ্ছে—",
+    "options": ["x + 2", "x – 2", "x + 1", "x – 1"],
+    "answer": "x + 1"
+  },
+  {
+    "question": "৩, ৯ ও ৪ এর চতুর্থ সমানুপাতিক কত?",
+    "options": ["৪", "১৪", "১৬", "১২"],
+    "answer": "১২"
+  },
+  {
+    "question": "১৩ ¾ % এর সমান",
+    "options": ["১১/৮০", "১১/২০", "১/৯", "১/৮"],
+    "answer": "১১/৮০"
+  },
+  {
+    "question": "কোন ত্রিভুজের বাহুগুলাের অনুপাত নিচের কোনটি হলে একটি সমকোণী ত্রিভুজ অংকন সম্ভব হবে?",
+    "options": ["৬ : ৫ : ৪", "৩ : ৪ : ৫", "১২ : ৮ : ৪", "৬ : ৪ : ৩"],
+    "answer": "৩ : ৪ : ৫"
+  },
+  {
+    "question": "দুটি ত্রিভুজ পরস্পর সর্বসম হওয়ার জন্য নিচের কোন শর্তটি যথেষ্ট নয়?",
+    "options": [
+      "একটির তিনবাহু অপরটির তিন বাহুর সমান",
+      "একটির তিন কোণ অপরটির তিন কোণের সমান",
+      "একটির দুই কোণ ও একবাহু অপরটির দুইকোণ ও অনুরূপ বাহুর সমান",
+      "একটির দুই বাহু ও অন্তর্ভুক্ত কোণ অপরটির দুই বাহু ও অন্তর্ভুক্ত কোণের সমান"
+    ],
+    "answer": "একটির তিন কোণ অপরটির তিন কোণের সমান"
+  },
+  {
+    "question": "a – 1/a = 3 হলে a3+1/a3 এর মান কত?",
+    "options": ["9", "18", "27", "36"],
+    "answer": "9"
+  },
+  {
+    "question": "নিম্নের কোনটি বৃত্তের সমীকরণ?",
+    "options": ["ax2+bx+c=0", "y2=ax", "x2+y2=16", "y2=2x+7"],
+    "answer": "x2+y2=16"
+  },
+  {
+    "question": "x> y এবং z< 0 হলে নিচের কোনটি সঠিক?",
+    "options": ["xz > yz", "x/z > y/z", "z/x < z/y", "xz < yz"],
+    "answer": "xz < yz"
+  },
+  {
+    "question": "ক ও খ একত্রে একটি কাজ ১২ দিনে করতে পারে। ক একা কাজটি ২০ দিনে করতে পারে। খ একা কাজটি কত দিনে করতে পারবে?",
+    "options": ["২৫ দিনে", "৩০ দিনে", "৩৫ দিনে", "৪০ দিনে"],
+    "answer": "৩০ দিনে"
+  },
+  {
+    "question": "একটি সংখ্যা ৩০১ হতে যত বড় ৩৮১ হতে তত ছোট। সংখ্যাটি কত?",
+    "options": ["৩৪০", "৩৪১", "৩৪২", "৩৪৪"],
+    "answer": "৩৪১"
+  },
+  {
+    "question": "নিচের কোনটি ক্ষুদ্রতম সংখ্যা?",
+    "options": ["০.৩", "√০.৩", "১/৩", "২/৫"],
+    "answer": "০.৩"
+  },
+  {
+    "question": "কোন লঘিষ্ঠ সংখ্যার সাথে ২ যােগ করলে যােগফল ১২, ১৮ এবং ২৪ দ্বারা বিভাজ্য হবে?",
+    "options": ["৮৯", "৭০", "১৭০", "১৪২"],
+    "answer": "৭০"
+  },
+  {
+    "question": "বৃত্তের কেন্দ্র ছেদকারী জ্যা কে কী বলা হয়?",
+    "options": ["ব্যাস", "ব্যাসার্ধ", "বৃত্তচাপ", "পরিধি"],
+    "answer": "ব্যাস"
+  },
+  {
+    "question": "একটি সংখ্যার ১৫০% কত হবে?",
+    "options": ["১.৫", "১৫", "৩০", "১৫০"],
+    "answer": "১.৫"
+  },
+  {
+    "question": "৩৫, ৪৫, ৫৫, ৬৫, ______ পরবর্তী সংখ্যা কী?",
+    "options": ["৭০", "৭৫", "৮০", "৯০"],
+    "answer": "৭৫"
+  },
+  {
+    "question": "একটি কাগজে ২০টি সাদা এবং ১০টি কালো বুলেট রয়েছে। যদি একে একে ৩টি বুলেট বেছে নেওয়া হয়, তবে সেগুলো সাদা হওয়ার সম্ভাবনা কত?",
+    "options": ["০.১", "০.২", "০.৩", "০.৪"],
+    "answer": "০.৩"
+  }
+]
+
+        },
+        {
+            "subject_name": "GK",
+            "questions":  [
+  {
+    "question": "বাংলাদেশে সবচেয়ে বেশি পাট উৎপন্ন হয় কোন জেলায়?",
+    "options": ["ফরিদপুর", "রংপুর", "জামালপুর", "শেরপুর"],
+    "answer": "ফরিদপুর"
+  },
+  {
+    "question": "বাংলাদেশে মোট আবাদযোগ্য জমির পরিমাণ-",
+    "options": ["২ কোটি ১১ লক্ষ একর", "২ কোটি ৫০ লক্ষ একর", "২ কোটি ২৫ লক্ষ একর", "২ কোটি ২১ লক্ষ একর"],
+    "answer": "২ কোটি ১১ লক্ষ একর"
+  },
+  {
+    "question": "“গারো উপজাতি” কোন জেলায় বাস করে?",
+    "options": ["পার্বত্য চট্টগ্রাম", "সিলেট", "ময়মনসিংহ", "টাঙ্গাইল"],
+    "answer": "ময়মনসিংহ"
+  },
+  {
+    "question": "২০১৮ সালে বাংলাদেশের Per capita GDP (nominal) কত?",
+    "options": ["১,৭৫০ মার্কিন ডলার", "১,৭৫১ মার্কিন ডলার", "১,৭৫২ মার্কিন ডলার", "১,৭৫৩ মার্কিন ডলার"],
+    "answer": "১,৭৫১ মার্কিন ডলার"
+  },
+  {
+    "question": "আইন ও সালিশ কেন্দ্র কি ধরনের সংস্থা?",
+    "options": ["অর্থনৈতিক", "মানবাধিকার", "ধর্মীয়", "খেলাধুলা"],
+    "answer": "মানবাধিকার"
+  },
+  {
+    "question": "Almond ও Powel চাপ সৃষ্টিকারী গোষ্ঠীকে বিভক্ত করছেন-",
+    "options": ["৩ ভাগে", "৪ ভাগে", "৫ ভাগে", "৬ ভাগে"],
+    "answer": "৪ ভাগে"
+  },
+  {
+    "question": "বাংলাদেশ জাতিসংঘের-",
+    "options": ["১৪৬ তম সদস্য", "১৩৬ তম সদস্য", "১২৬ তম সদস্য", "১১৬ তম সদস্য"],
+    "answer": "১৩৬ তম সদস্য"
+  },
+  {
+    "question": "বাংলাদেশে প্রথম জাতীয় সংসদের নির্বাচন হয়",
+    "options": ["৭ ফেব্রুয়ারি, ১৯৭৩", "৭ জানুয়ারি, ১৯৭৩", "৭ মার্চ, ১৯৭৩", "৭ এপ্রিল, ১৯৭৩"],
+    "answer": "৭ মার্চ, ১৯৭৩"
+  },
+  {
+    "question": "১৯৭১ সালে মুক্তিযুদ্ধের সময় জাতিসংঘে কোন দেশ বাংলাদেশের পক্ষে ভেটো প্রদান করেছিল?",
+    "options": ["যুক্তরাজ্য", "ফ্রান্স", "যুক্তরাষ্ট্র", "সোভিয়েত ইউনিয়ন"],
+    "answer": "সোভিয়েত ইউনিয়ন"
+  },
+  {
+    "question": "বঙ্গবন্ধুর ঐতিহাসিক ৭ই মার্চের ভাষণ সংবিধানের কোন তফসিলে অন্তর্ভুক্ত করা হয়েছে?",
+    "options": ["চতুর্থ তফসিল", "পঞ্চম তফসিল", "ষষ্ঠ তফসিল", "সপ্তম তফসিল"],
+    "answer": "পঞ্চম তফসিল"
+  },
+  {
+    "question": "‘বঙ্গভঙ্গ’ কালে ভারতের ভাইসরয় কে ছিলেন?",
+    "options": ["লর্ড কার্জন", "লর্ড ওয়াভেল", "লর্ড মাউন্ট ব্যাটেন", "লর্ড লিনলিথগো"],
+    "answer": "লর্ড কার্জন"
+  },
+  {
+    "question": "বাংলাদেশের কোন বনভূমি শালবৃক্ষের জন্য বিখ্যাত?",
+    "options": [
+      "সিলেটের বনভূমি",
+      "পার্বত্য চট্টগ্রামের বনভূমি",
+      "ভাওয়াল ও মধুপুরের বনভূমি",
+      "খুলনা, বরিশাল ও পটুয়াখালীর বনভূমি"
+    ],
+    "answer": "ভাওয়াল ও মধুপুরের বনভূমি"
+  },
+  {
+    "question": "বাংলাদেশে প্রথম আদমশুমারি অনুষ্ঠিত হয়-",
+    "options": ["১৯৭২ সালে", "১৯৭৩ সালে", "১৯৭৪ সালে", "১৯৭৫ সালে"],
+    "answer": "১৯৭৪ সালে"
+  },
+  {
+    "question": "Inclusive Development Index (IDI)-এর ভিত্তিতে দক্ষিণ এশিয়ায় বাংলাদেশের স্থান কত?",
+    "options": ["প্রথম স্থান", "দ্বিতীয় স্থান", "তৃতীয় স্থান", "চতুর্থ স্থান"],
+    "answer": "তৃতীয় স্থান"
+  },
+  {
+    "question": "২০১৮ সালে বাংলাদেশের মোট রপ্তানি আয় কত?",
+    "options": [
+      "৪০ বিলিয়ন মার্কিন ডলার",
+      "৪১ বিলিয়ন মার্কিন ডলার",
+      "৪২ বিলিয়ন মার্কিন ডলার",
+      "১৪৩ বিলিয়ন মার্কিন ডলার"
+    ],
+    "answer": "৪১ বিলিয়ন মার্কিন ডলার"
+  },
+  {
+    "question": "Alliance যে দেশ ভিত্তিক গার্মেন্টস ব্র্যান্ডগুলোর সংগঠন-",
+    "options": ["যুক্তরাজ্যের", "যুক্তরাষ্ট্রের", "কানাডার", "ইউরোপিয়ান ইউনিয়নে"],
+    "answer": "যুক্তরাষ্ট্রের"
+  },
+  {
+    "question": "২০১৮ সালে বাংলাদেশের GDP-তে শিল্প খাতের অবদান কত শতাংশ ছিল?",
+    "options": ["২৯.৬৬%", "৩০.৬৬%", "৩২.৬৬%", "৩৩.৬৬%"],
+    "answer": "৩৩.৬৬%"
+  },
+  {
+    "question": "২০১৮-১৯ অর্থ বছরে রপ্তানি প্রণোদনা রাখা হয়েছে-",
+    "options": [
+      "সাড়ে ৪ হাজার কোটি টাকা",
+      "সাড়ে ৫ হাজার কোটি টাকা",
+      "সাড়ে ৩ হাজার কোটি টাকা",
+      "সাড়ে ৬ হাজার কোটি টাকা"
+    ],
+    "answer": "সাড়ে ৪ হাজার কোটি টাকা"
+  },
+  {
+    "question": "বাংলাদেশে প্রথম ভ্যাট (VAT) চালু হয়-",
+    "options": ["১৯৯১ সালে", "১৯৭৩ সালে", "১৯৮৬ সালে", "১৯৯৬ সালে"],
+    "answer": "১৯৯১ সালে"
+  },
+  {
+    "question": "সংবিধানের কোন সংশোধনকে ‘first distortion of constitution’ বলে আখ্যায়িত করা হয়?",
+    "options": ["৫ম সংশোধন", "৪র্থ সংশোধন", "২য় সংশোধন", "৩য় সংশোধন"],
+    "answer": "৫ম সংশোধন"
+  }
+]
+
+        },
+        {
+            "subject_name": "বাংলাদেশ বিষয়াবলী",
+            "questions": [
+  {
+    "question": "স্বাধীনতার ঘোষণাপত্র সংবিধানের কততম তফসিলে সংযাজোন করা হয়েছে?",
+    "options": ["চতুর্থ", "পঞ্চম", "ষষ্ঠ", "সপ্তম"],
+    "answer": "সপ্তম"
+  },
+  {
+    "question": "গণপ্রজাতন্ত্রী বাংলাদেশের সংবিধান প্রবর্তিত হয়-",
+    "options": ["১৭ এপ্রিল, ১৯৭১", "১৬ ডিসেম্বর, ১৯৭২", "৭ মার্চ, ১৯৭২", "২৬ মার্চ, ১৯৭৩"],
+    "answer": "১৬ ডিসেম্বর, ১৯৭২"
+  },
+  {
+    "question": "সংবিধানের কোন অনুচ্ছেদে 'সরকারি কর্ম কমিশন' (PSC) গঠনের উল্লেখ আছে?",
+    "options": ["১৩৭ নং অনুচ্ছেদে", "১৩৫ নং অনুচ্ছেদে", "১৩৮ নং অনুচ্ছেদে", "১৩৪ নং অনুচ্ছেদে"],
+    "answer": "১৩৭ নং অনুচ্ছেদে"
+  },
+  {
+    "question": "আওয়ামী লীগের ৬-দফা পেশ করা হয়েছিল-",
+    "options": ["১৯৬৬ সালে", "১৯৬৭ সালে", "১৯৬৮ সালে", "১৯৬৯ সালে"],
+    "answer": "১৯৬৬ সালে"
+  },
+  {
+    "question": "বঙ্গবন্ধুসহ আগরতলা ষড়যন্ত্র মামলায় মোট আসামী সংখ্যা ছিল কত জন?",
+    "options": ["৩৪ জন", "৩৫ জন", "৩৬ জন", "৩২ জন"],
+    "answer": "৩৫ জন"
+  },
+  {
+    "question": "তৃণমূল পর্যায়ে স্বাস্থ্য সেবা নিশ্চিত করতে কমিউনিটি ক্লিনিক চালু করা হয় –",
+    "options": ["১৩ হাজার ১২৫ টি", "১৩ হাজার ১৩০ টি", "১৩ হাজার ১৩৬ টি", "১৩ হাজার ১৪৬ টি"],
+    "answer": "১৩ হাজার ১৩৬ টি"
+  },
+  {
+    "question": "'Let there be Light' -বিখ্যাত ছবিটি পরিচালনা করেন-",
+    "options": ["আমজাদ হোসেন", "জহির রায়হান", "খান আতাউর রহমান", "শেখ নিয়ামত আলী"],
+    "answer": "জহির রায়হান"
+  },
+  {
+    "question": "আলাউদ্দিন হোসেন শাহ্ কখন বৃহত্তর বাংলা শাসন করেন?",
+    "options": ["১৪৯৮-১৪১৬ খৃষ্টাব্দ", "১৪৯৮-১৫১৭ খৃষ্টাব্দ", "১৪৯৮-১৫১৮ খৃষ্টাব্দ", "১৪৯৮-১৫১৯ খৃষ্টাব্দ"],
+    "answer": "১৪৯৮-১৫১৯ খৃষ্টাব্দ"
+  },
+  {
+    "question": "প্রাচীন বাংলা মৌর্য শাসনের প্রতিষ্ঠাতা কে?",
+    "options": ["অশোক মৌর্য", "চন্দ্রগুপ্ত মৌর্য", "সমুদ্র গুপ্ত", "এর কোনটিই না"],
+    "answer": "চন্দ্রগুপ্ত মৌর্য"
+  },
+  {
+    "question": "ইউরোপীয় বণিকদের মধ্যে বাংলায় প্রথম এসেছিলেন-",
+    "options": ["পর্তুগীজরা", "ইংরেজরা", "ওলন্দাজরা", "ফরাসিরা"],
+    "answer": "পর্তুগীজরা"
+  },
+  {
+    "question": "ঢাকা বিশ্ববিদ্যালয় কত সালে প্রতিষ্ঠিত হয়েছে?",
+    "options": ["১৯১১ সালে", "১৯২১সালে", "১৯৩১ সালে", "১৯৪১সালে"],
+    "answer": "১৯২১সালে"
+  },
+  {
+    "question": "বাংলাদেশে কয়টি সরকারি বিশ্ববিদ্যালয় রয়েছে?",
+    "options": ["১৪ টি", "২৪ টি", "৩৪ টি", "৫০ টি"],
+    "answer": "৩৪ টি"
+  },
+  {
+    "question": "বাংলাদেশের ক্ষুদ্রতম ইউনিয়ন পরিষদ কোনটি?",
+    "options": ["সেন্টমার্টিন", "সাতগ্রাম", "মুজিবনগর", "চোদ্দগ্রাম"],
+    "answer": "সেন্টমার্টিন"
+  },
+  {
+    "question": "বাংলাদেশকে প্রথম স্বীকৃতিদানকারী দেশ কোনটি?",
+    "options": ["ভারত", "শ্রীলংকা", "মায়ানমার", "রাশিয়া"],
+    "answer": "ভারত"
+  },
+  {
+    "question": "বাংলাদেশের প্রথম রাষ্ট্রপতির নাম কী?",
+    "options": ["সৈয়দ নজরুল ইসলাম", "তাজউদ্দীন আহমদ", "শেখ মুজিবুর রাহমান", "ক্যাপ্টেন মনসুর আলী"],
+    "answer": "শেখ মুজিবুর রাহমান"
+  },
+  {
+    "question": "বাংলাদেশের মুক্তিযুদ্ধের প্রধান সেনাপতি কে ছিলেন?",
+    "options": ["শেখ মুজিবুর রাহমান", "জেনারেল আতাউল গনি ওসমানী", "তাজউদ্দীন আহমদ", "ক্যাপ্টেন মনসুর আলী"],
+    "answer": "জেনারেল আতাউল গনি ওসমানী"
+  },
+  {
+    "question": "পার্বত্য চট্টগ্রামে কয়টি জেলা আছে?",
+    "options": ["৩ টি", "৫টি", "৭ টি", "৯ টি"],
+    "answer": "৩ টি"
+  },
+  {
+    "question": "টেকনাফ কোন নদীর তীরে অবস্থিত?",
+    "options": ["পদ্মা", "যমুনা", "নাফ", "কর্ণফুলী"],
+    "answer": "নাফ"
+  },
+  {
+    "question": "দক্ষিণ তালপট্টি কোন নদীর মোহনায় অবস্থিত?",
+    "options": ["নাফ", "তেতুলিয়া", "আড়িয়াল খাঁ", "হাড়িয়াভাঙ্গা"],
+    "answer": "হাড়িয়াভাঙ্গা"
+  },
+  {
+    "question": "গৌড়ের সোনা মসজিদ কার আমলে নির্মিত হয়?",
+    "options": ["ফখরুদ্দিন মোবারক শাহ্", "হোসেন শাহ্", "শায়েস্তা খাঁ", "ঈশা খাঁ"],
+    "answer": "হোসেন শাহ্"
+  }
+]
+
+        },
+        {
+            "subject_name": "বিশ্ব বিষয়াবলী",
+            "questions":  [
+  {
+    "question": "মার্কিন যুক্তরাষ্ট্রের বর্তমান পররাষ্ট্রমন্ত্রীর নাম কী?",
+    "options": ["জর্জ বুশ", "হিলারি ক্লিনটন", "রবার্ট গেইট", "কন্ডোলিসা রাইস"],
+    "answer": "হিলারি ক্লিনটন"
+  },
+  {
+    "question": "‘ডেভিস কাপ’ কোন খেলায় দেয়া হয়?",
+    "options": ["ব্যাডমিন্টন", "লন টেনিস", "টেবিল টেনিস", "ক্রিকেট"],
+    "answer": "লন টেনিস"
+  },
+  {
+    "question": "কোন বিজ্ঞানী রোগজীবাণু তত্ত্ব উদ্ভাবন করেন?",
+    "options": ["লুইপাস্তুর", "ডারউইন", "প্রিস্টলী", "ল্যাভয়েসিয়ে"],
+    "answer": "লুইপাস্তুর"
+  },
+  {
+    "question": "অন্ধদের জন্য লিখনরীতির উদ্ভাবন করেন-",
+    "options": ["লুইস ব্রেইল", "কপার্নিকাস", "ডেভিটবোর", "টমাস আলভা এডিসন"],
+    "answer": "লুইস ব্রেইল"
+  },
+  {
+    "question": "আইএলও-এর সদর দপ্তর কোথায় অবস্থিত?",
+    "options": ["লন্ডন", "জেনেভা", "নিউইয়র্ক", "দিল্লি"],
+    "answer": "জেনেভা"
+  },
+  {
+    "question": "এসকাপের সদর দপ্তর কোথায় অবস্থিত?",
+    "options": ["ব্যাংকক", "সিঙ্গাপুর", "দিল্লি", "কলম্বো"],
+    "answer": "ব্যাংকক"
+  },
+  {
+    "question": "ইউরোপীয় ইউনিয়নের সদর দপ্তর কোথায়?",
+    "options": ["লন্ডন", "ব্রাসেলস্", "বন", "প্যারিস"],
+    "answer": "ব্রাসেলস্"
+  },
+  {
+    "question": "জাতিসংঘের সদর দপ্তর কোথায় অবস্থিত?",
+    "options": ["লন্ডন", "নিউইয়র্ক", "প্যারিস", "মস্কো"],
+    "answer": "নিউইয়র্ক"
+  },
+  {
+    "question": "সার্কের সচিবালয় কোথায় অবস্থিত?",
+    "options": ["দিল্লি", "ইসলামাবাদ", "কাঠমুন্ডু", "ঢাকা"],
+    "answer": "কাঠমুন্ডু"
+  },
+  {
+    "question": "খাদ্য ও কৃষি সংস্থার প্রধান কার্যালয় কোথায় অবস্থিত?",
+    "options": ["নিউইয়র্ক", "রোমে", "জেনেভায়", "অটোয়ায়"],
+    "answer": "রোমে"
+  },
+  {
+    "question": "ষোড়শ সার্ক সম্মেলন কোথায় অনুষ্ঠিত হয়?",
+    "options": ["ঢাকা", "কাঠমাণ্ডু", "থিম্পু", "মালে"],
+    "answer": "থিম্পু"
+  },
+  {
+    "question": "বিশ্বের সবচেয়ে বড় অর্থনৈতিক জোট কোনটি?",
+    "options": ["EU", "WTO", "NATO", "FIFA"],
+    "answer": "WTO"
+  },
+  {
+    "question": "আলফ্রেড নোবেল কি আবিষ্কার করেন?",
+    "options": ["ডিনামাইট", "বিদ্যুৎ", "পোলিও টিকা", "কয়লা"],
+    "answer": "ডিনামাইট"
+  },
+  {
+    "question": "নিম্নের কোন দেশটি G-7 এর সদস্য নয়?",
+    "options": ["জাপান", "যুক্তরাজ্য", "ফ্রান্স", "সুইডেন"],
+    "answer": "সুইডেন"
+  },
+  {
+    "question": "হাজার হ্রদের দেশ কোনটি?",
+    "options": ["নরওয়ে", "ফিনল্যান্ড", "ইন্দোনেশিয়া", "জাপান"],
+    "answer": "ফিনল্যান্ড"
+  },
+  {
+    "question": "কোথায় সেনাবাহিনী নেই?",
+    "options": ["সুদান", "সাইপ্রাস", "মালদ্বীপ", "ভুটান"],
+    "answer": "মালদ্বীপ"
+  },
+  {
+    "question": "কবে রেডক্রস প্রতিষ্ঠিত হয়?",
+    "options": ["১৮৬৩ সালে", "১৮৬৮ সালে", "১৮৬৬ সালে", "১৮৬১ সালে"],
+    "answer": "১৮৬৩ সালে"
+  },
+  {
+    "question": "বিশ্ব মানবাধিকার দিবস কবে পালিত হয়?",
+    "options": ["২৬ জুন", "১ আগস্ট", "১ মে", "১০ ডিসেম্বর"],
+    "answer": "১০ ডিসেম্বর"
+  },
+  {
+    "question": "FIFA প্রতিষ্ঠিত হয় কবে?",
+    "options": ["১৯০৪", "১৯২৪", "১৯১৪", "১৯০৫"],
+    "answer": "১৯০৪"
+  },
+  {
+    "question": "কিরগিজস্তানের রাজধানী কোথায়?",
+    "options": ["বিশকেক", "আলমাআতা", "আশখাবাদ", "উলানবাটো"],
+    "answer": "বিশকেক"
+  }
+]
+
+        },
+        {
+            "subject_name": "মানসিক দক্ষতা",
+            "questions": [
+  {
+    "question": "একটি ঘড়িতে ১২ টা বাজে। ৬ ঘণ্টা পরে ঘড়ির কাঁটাগুলো কী অবস্থানে থাকবে?",
+    "options": ["৬ টা", "১২ টা", "৩ টা", "৯ টা"],
+    "answer": "৬ টা"
+  },
+  {
+    "question": "ধারাবাহিক সংখ্যাটি পূরণ করুন: ৫, ১০, ২০, ৪০, ?",
+    "options": ["৮০", "১০০", "৭০", "৯০"],
+    "answer": "৮০"
+  },
+  {
+    "question": "যদি CAT = ২৪ এবং DOG = ২৬ হয়, তাহলে BAT এর মান কত?",
+    "options": ["২০", "২১", "২২", "২৩"],
+    "answer": "২২"
+  },
+  {
+    "question": "একটি টেবিলে ৪ কোণ আছে। একটি কোণ কেটে ফেললে টেবিলে কয়টি কোণ থাকবে?",
+    "options": ["৩", "৫", "৬", "৪"],
+    "answer": "৫"
+  },
+  {
+    "question": "যদি একটি ঘড়ি প্রতিদিন ১০ মিনিট পিছিয়ে যায়, তবে ১ সপ্তাহ পর ঘড়ি কত মিনিট পিছিয়ে থাকবে?",
+    "options": ["৭০ মিনিট", "৬০ মিনিট", "৮০ মিনিট", "৫০ মিনিট"],
+    "answer": "৭০ মিনিট"
+  },
+  {
+    "question": "ধারাবাহিক সংখ্যা পূরণ করুন: ১, ৪, ৯, ১৬, ২৫, ?",
+    "options": ["৩০", "৩২", "৩৬", "৩৪"],
+    "answer": "৩৬"
+  },
+  {
+    "question": "যদি 'MANGO' কে 'NGOMA' লেখা হয়, তাহলে 'APPLE' কীভাবে লেখা হবে?",
+    "options": ["LEAPP", "PPLEA", "LEAPP", "APPEL"],
+    "answer": "PPLEA"
+  },
+  {
+    "question": "একটি বইয়ের মূল্য ৫০০ টাকা। যদি ২০% ছাড় দেওয়া হয়, তাহলে মূল্য কত হবে?",
+    "options": ["৪৫০ টাকা", "৪২০ টাকা", "৪০০ টাকা", "৪৮০ টাকা"],
+    "answer": "৪০০ টাকা"
+  },
+  {
+    "question": "ধারাবাহিক পূরণ করুন: A, E, I, O, ?",
+    "options": ["X", "U", "Y", "V"],
+    "answer": "U"
+  },
+  {
+    "question": "যদি ২ + ৩ = ১৩ এবং ৩ + ৪ = ২৫ হয়, তাহলে ৪ + ৫ = ?",
+    "options": ["৩০", "৩৫", "৩৯", "৪১"],
+    "answer": "৪১"
+  },
+  {
+    "question": "একটি ট্রেনের দৈর্ঘ্য ৩০০ মিটার, যা প্রতি ঘণ্টায় ৯০ কিমি গতিতে চলছে। ৬০০ মিটার প্ল্যাটফর্ম পার হতে কত সেকেন্ড লাগবে?",
+    "options": ["২০ সেকেন্ড", "২৪ সেকেন্ড", "৩০ সেকেন্ড", "৩৬ সেকেন্ড"],
+    "answer": "২৪ সেকেন্ড"
+  },
+  {
+    "question": "ধারাবাহিক পূরণ করুন: ২, ৩, ৫, ৭, ১১, ?",
+    "options": ["১২", "১৩", "১৪", "১৫"],
+    "answer": "১৩"
+  },
+  {
+    "question": "যদি 'PEN' কে 'QFO' লেখা হয়, তাহলে 'BOOK' কীভাবে লেখা হবে?",
+    "options": ["CPOL", "CPPL", "CPOO", "CPLL"],
+    "answer": "CPPL"
+  },
+  {
+    "question": "একটি বাস প্রতি ১৫ মিনিটে আসে। ২ ঘণ্টায় বাসটি কতবার আসবে?",
+    "options": ["৮ বার", "৯ বার", "১০ বার", "১১ বার"],
+    "answer": "৯ বার"
+  },
+  {
+    "question": "যদি ১৫% ছাড়ে একটি জিনিস ১৭০০ টাকায় বিক্রি হয়, তবে আসল মূল্য কত?",
+    "options": ["১৯০০ টাকা", "২০০০ টাকা", "১৮৫০ টাকা", "২১০০ টাকা"],
+    "answer": "২০০০ টাকা"
+  },
+  {
+    "question": "ধারাবাহিক সংখ্যা পূরণ করুন: ১, ৩, ৬, ১০, ১৫, ?",
+    "options": ["১৮", "১৯", "২০", "২১"],
+    "answer": "২১"
+  },
+  {
+    "question": "একটি ক্লাসে ৬০ জন ছাত্রছাত্রী রয়েছে। যদি ছেলেদের সংখ্যা মেয়েদের চেয়ে ৮ বেশি হয়, তাহলে মেয়েদের সংখ্যা কত?",
+    "options": ["২৬", "২৭", "২৮", "২৯"],
+    "answer": "২৬"
+  },
+  {
+    "question": "ধারাবাহিক সংখ্যা পূরণ করুন: ৩, ৬, ১২, ২৪, ?",
+    "options": ["৩৮", "৪৮", "৫৬", "৫৪"],
+    "answer": "৪৮"
+  },
+  {
+    "question": "যদি CLOCK কে KCOLC লেখা হয়, তাহলে TABLE কে কীভাবে লেখা হবে?",
+    "options": ["ELTAB", "EBLAT", "LETBA", "EBTLA"],
+    "answer": "ELTAB"
+  },
+  {
+    "question": "একটি বাক্সে ৮টি লাল বল, ৭টি নীল বল, এবং ৫টি সবুজ বল রয়েছে। বাক্স থেকে একটি বল তোলার সম্ভাবনা কী যে তা নীল হবে?",
+    "options": ["7/20", "7/18", "7/21", "7/15"],
+    "answer": "7/20"
+  }
+]
+
+        },
+        {
+            "subject_name": "ICT",
+            "questions":[
+  {
+    "question": "ইন্টারনেটের মূল প্রোটোকল কী?",
+    "options": ["HTTP", "IP", "TCP", "FTP"],
+    "answer": "IP"
+  },
+  {
+    "question": "কোনটি অ্যান্টি-ভাইরাস সফটওয়্যার?",
+    "options": ["Microsoft Word", "Adobe Photoshop", "Norton", "VLC Media Player"],
+    "answer": "Norton"
+  },
+  {
+    "question": "কোনটি ইনপুট ডিভাইস?",
+    "options": ["প্রিন্টার", "মনিটর", "কীবোর্ড", "স্পিকার"],
+    "answer": "কীবোর্ড"
+  },
+  {
+    "question": "কোনটি অপারেটিং সিস্টেম?",
+    "options": ["Windows", "Google", "Instagram", "Facebook"],
+    "answer": "Windows"
+  },
+  {
+    "question": "RAM এর পূর্ণরূপ কী?",
+    "options": [
+      "Read Access Memory",
+      "Random Access Memory",
+      "Random Application Memory",
+      "Read Application Memory"
+    ],
+    "answer": "Random Access Memory"
+  },
+  {
+    "question": "কোনটি ডেটাবেস ম্যানেজমেন্ট সিস্টেম?",
+    "options": ["MySQL", "Python", "HTML", "CSS"],
+    "answer": "MySQL"
+  },
+  {
+    "question": "ফায়ারওয়াল কী কাজে ব্যবহৃত হয়?",
+    "options": [
+      "হার্ডডিস্ক পরিষ্কার করার জন্য",
+      "ম্যালওয়্যার আটকানোর জন্য",
+      "ইন্টারনেট স্পিড বাড়ানোর জন্য",
+      "প্রিন্টার চালানোর জন্য"
+    ],
+    "answer": "ম্যালওয়্যার আটকানোর জন্য"
+  },
+  {
+    "question": "পাস্কাল কোন ধরনের ভাষা?",
+    "options": ["প্রোগ্রামিং ভাষা", "মার্কআপ ভাষা", "স্ক্রিপ্টিং ভাষা", "সিস্টেম ভাষা"],
+    "answer": "প্রোগ্রামিং ভাষা"
+  },
+  {
+    "question": "ওয়েবসাইট তৈরিতে ব্যবহৃত হয় কোনটি?",
+    "options": ["Microsoft Excel", "HTML", "Adobe Reader", "Python"],
+    "answer": "HTML"
+  },
+  {
+    "question": "একটি মেগাবাইট (MB) সমান কত কিলোবাইট (KB)?",
+    "options": ["১০০০ KB", "১০২৪ KB", "১০৪৮ KB", "১১০০ KB"],
+    "answer": "১০২৪ KB"
+  },
+  {
+    "question": "কোনটি ওয়েব ব্রাউজার?",
+    "options": ["Chrome", "Windows", "Linux", "Excel"],
+    "answer": "Chrome"
+  },
+  {
+    "question": "ক্লাউড কম্পিউটিং কী?",
+    "options": [
+      "ভার্চুয়াল সার্ভারে ডেটা সংরক্ষণ",
+      "ফাইল ডিলিট করার প্রক্রিয়া",
+      "সিস্টেম আপগ্রেডের পদ্ধতি",
+      "কম্পিউটার রিস্টার্ট করার প্রক্রিয়া"
+    ],
+    "answer": "ভার্চুয়াল সার্ভারে ডেটা সংরক্ষণ"
+  },
+  {
+    "question": "কোনটি এক্সেল সফটওয়্যারের ফর্মুলা?",
+    "options": ["SUM(A1)", "ADD(A1)", "MULTI(A1)", "COMBINE(A1)"],
+    "answer": "SUM(A1)"
+  },
+  {
+    "question": "হার্ডডিস্কের গতি নির্ধারণ করা হয় কী দিয়ে?",
+    "options": ["RPM", "GB", "MB", "DPI"],
+    "answer": "RPM"
+  },
+  {
+    "question": "কোনটি আউটপুট ডিভাইস?",
+    "options": ["কীবোর্ড", "মাউস", "প্রিন্টার", "স্ক্যানার"],
+    "answer": "প্রিন্টার"
+  },
+  {
+    "question": "কোনটি প্রথম প্রোগ্রামিং ভাষা?",
+    "options": ["FORTRAN", "C", "BASIC", "COBOL"],
+    "answer": "FORTRAN"
+  },
+  {
+    "question": "IPv4 এর ঠিকানা সাইজ কত?",
+    "options": ["১৬ বিট", "৩২ বিট", "৬৪ বিট", "১২৮ বিট"],
+    "answer": "৩২ বিট"
+  },
+  {
+    "question": "এক গিগাহার্টজ (GHz) সমান কত?",
+    "options": ["১০০০ MHz", "১০২৪ MHz", "১০৪৮ MHz", "১১০০ MHz"],
+    "answer": "১০০০ MHz"
+  },
+  {
+    "question": "কম্পিউটারের মূল অংশ কোনটি?",
+    "options": ["মাদারবোর্ড", "RAM", "CPU", "হার্ডডিস্ক"],
+    "answer": "CPU"
+  },
+  {
+    "question": "URL এর পূর্ণরূপ কী?",
+    "options": [
+      "Uniform Resource Locator",
+      "Universal Resource Link",
+      "Unified Resource Link",
+      "Uniform Relation Locator"
+    ],
+    "answer": "Uniform Resource Locator"
+  }
+]
+      
+            }
+    ]
+}

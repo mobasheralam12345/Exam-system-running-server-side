@@ -1,0 +1,1085 @@
+{
+    "year": 31,
+    "subjects": [
+        {
+            "subject_name": "বাংলা",
+           "questions": [
+  
+  {
+    "question": "‘ঠাকুরমার ঝুলি’ কী জাতীয় রচনার সংকলন?",
+    "options": ["রুপকথা", "ছােটগল্প", "গ্রাম্যগীতিকা", "রূপকথা-উপকথায়"],
+    "answer": "রুপকথা"
+  },
+  {
+    "question": "“সকালে উঠিয়া আমি মনে মনে বলি সারাদিন আমি যেন ভাল হয়ে চলি।” এই চরণদ্বয়ের লেখক-",
+    "options": ["রবীন্দ্রনাথ ঠাকুর", "কুসুমকুমারী দাশ", "মদনমোহন তর্কালঙ্কার", "কৃষ্ণচন্দ্র মজুমদার"],
+    "answer": "মদনমোহন তর্কালঙ্কার"
+  },
+  {
+    "question": "বাগাড়ম্বর শব্দের সন্ধি-বিচ্ছেদ –",
+    "options": ["বাগ + অম্বর", "বাগ + আড়ম্বর", "বাক্ + অম্বর", "বাক্ + আড়ম্বর"],
+    "answer": "বাক্ + আড়ম্বর"
+  },
+  {
+    "question": "‘আফতাব’ শব্দের সমার্থ কোনটি?",
+    "options": ["অর্ণব", "রাতুল", "অর্ক", "জলধি"],
+    "answer": "অর্ক"
+  },
+  {
+    "question": "কোন কবি নিজেকে বাঙালি বলে পরিচয় দিয়েছেন?",
+    "options": ["গোবিন্দ দাস", "কায়কোবাদ আর", "কাহ্নপা", "ভুসুকুপা"],
+    "answer": "ভুসুকুপা"
+  },
+  {
+    "question": "Anatomy শব্দের অর্থ-",
+    "options": ["সাদৃশ্য", "স্নায়ুতন্ত্র", "শারীরবিদ্যা", "অঙ্গ-সঞ্চালন"],
+    "answer": "শারীরবিদ্যা"
+  },
+  {
+    "question": "জ্যোৎস্নারাত কোন সমাসের দৃষ্টান্ত?",
+    "options": ["মধ্যপদলোপী কর্মধারয়", "ষষ্ঠী তৎপুরুষ", "পঞ্চমী তৎপুরুষ", "উপমান কর্মধারয়"],
+    "answer": "মধ্যপদলোপী কর্মধারয়"
+  },
+  {
+    "question": "‘অনীক’ শব্দের অর্থ—",
+    "options": ["সূর্য", "সমুদ্র", "যুদ্ধক্ষেত্র", "সৈনিক"],
+    "answer": "সৈনিক"
+  },
+  {
+    "question": "‘আধ্যাত্মিকা’ উপন্যাসের লেখক কে?",
+    "options": ["প্যারীচাঁদ মিত্র", "রবীন্দ্রনাথ ঠাকুর", "দামােদর বন্দ্যোপাধ্যায়", "শরৎচন্দ্র চট্টোপাধ্যায়"],
+    "answer": "প্যারীচাঁদ মিত্র"
+  },
+  {
+    "question": "নিচের কোনটি শরৎচন্দ্র চট্টোপাধ্যায়ের ছদ্মনাম?",
+    "options": ["বীরবল", "ভিমরুল", "অনিলাদেবী", "যাযাবর"],
+    "answer": "অনিলাদেবী"
+  },
+  {
+    "question": "বাংলা ভাষার আদি নিদর্শন চর্যাপদ আবিস্কৃত হয় কত সালে?",
+    "options": ["২০০৭", "১৯০৭", "১৯০৯", "১৯১৬"],
+    "answer": "১৯০৭"
+  },
+  {
+    "question": "সুলতানি আমলে বাংলার রাজধানীর নাম কী ছিল?",
+    "options": ["সোনারগাঁ", "জাহাঙ্গীরনগর", "ঢাকা", "গৌড"],
+    "answer": "গৌড়"
+  },
+  {
+    "question": "ব্রিটিশ ভারতের শেষ ভাইসরয় কে ছিলেন?",
+    "options": ["লর্ড কার্জন", "লর্ড মাউন্টব্যাটেন", "লর্ড বেন্টিঙ্ক", "লর্ড ওয়াভেল"],
+    "answer": "লর্ড মাউন্টব্যাটেন"
+  },
+  {
+    "question": "বঙ্গভঙ্গের সময় ভারত এর গভর্নর জেনারেল কে ছিলেন?",
+    "options": ["লর্ড কার্জন", "লর্ড ওয়েলেসলি", "লর্ড ডালহৌসি", "লর্ড মাউন্টব্যাটেন"],
+    "answer": "লর্ড কার্জন"
+  },
+  {
+    "question": "ফররুখ আহমদের শ্রেষ্ঠ কাব্যগ্রন্থের নাম কী?",
+    "options": ["সাত সাগর এর মাঝি", "পাখির বাসা", "হাতেমতাই", "নৌফেল ও হাতেম"],
+    "answer": "সাত সাগর এর মাঝি"
+  },
+  {
+    "question": "প্রাচীনতম বাঙ্গালী মুসলমান কবি কে?",
+    "options": ["আলাওল", "সৈয়দ সুলতান", "মুহাম্মদ খান", "শাহ্ মুহাম্মাদ সগীর"],
+    "answer": "শাহ্ মুহাম্মাদ সগীর"
+  },
+  {
+    "question": "‘চাচা’ কাহিনীর লেখক কে?",
+    "options": ["সৈয়দ সামসুল হক", "শওকত ওসমান", "সৈয়দ মুজতবা আলী", "ফররুখ আহমদ"],
+    "answer": "সৈয়দ মুজতবা আলী"
+  },
+  {
+    "question": "মুসলমান নারী জাগরণের কবি ̶—",
+    "options": ["ফজিলাতুন্নেছা", "ফয়জুন্নেছা", "বেগম রোকেয়া", "সামসুন্নাহার"],
+    "answer": "বেগম রোকেয়া"
+  },
+  {
+    "question": "‘শ্রীকৃষ্ণকীর্তনের’ রচয়িতা কে?",
+    "options": ["জ্ঞানদাস", "দীনচণ্ডিদাস", "বডু চণ্ডিদাস", "দীনহীন চণ্ডিদাস"],
+    "answer": "বডু চণ্ডিদাস"
+  },
+  {
+    "question": "বাংলা কথ্যভাষার আদি গ্রন্থ কোনটি?",
+    "options": ["প্রভু যিশুর বানী", "কৃপার শাস্ত্রের অর্থভেদ", "ফুলমনি ও করুণার বিবরণ", "মিশনারি জীবণ"],
+    "answer": "কৃপার শাস্ত্রের অর্থভেদ"
+  },
+  {
+    "question": "কবি আলাওলের জন্মস্থান কোথায়?",
+    "options": ["ফরিদপুরের সুরেশ্বর", "চট্টগ্রামের জোব্ রা", "বার্মার আরাকান", "ফতেহাবাদ পরগনা"],
+    "answer": "ফতেহাবাদ পরগনা"
+  },
+  {
+    "question": "‘অনল-প্রবাহ’ রচনা করেন-",
+    "options": ["সৈয়দ ইসমাইল হোসেন সিরাজি", "মজাম্মেল হক", "এয়াকুব আলী চৌধুরী", "মুনিরুজ্জামান ইসলামাবাদি"],
+    "answer": "সৈয়দ ইসমাইল হোসেন সিরাজি"
+  },
+  {
+    "question": "‘অগ্নিবীণা’ কাব্যের প্রথম কবিতা কোনটি?",
+    "options": ["ধূমকেতু", "বিদ্রোহী", "প্রলয়োল্লাস", "অগ্রপথিক"],
+    "answer": "প্রলয়োল্লাস"
+  },
+  {
+    "question": "বাংলা সাহিত্যে কথ্যরীতি প্রচলনে কোন পত্রিকার অবদান বেশি?",
+    "options": ["কল্লোল", "সবুজপত্র", "বঙ্গদর্শন", "কালিকলম"],
+    "answer": "সবুজপত্র"
+  },
+  {
+    "question": "জনৈক শব্দটির সন্ধি-বিচ্ছেদ-",
+    "options": ["জন+ইক", "জন+এক", "জনৈ+এক", "জন+ঈক"],
+    "answer": "জন+এক"
+  },
+  {
+    "question": "একাত্তরের চিঠি কোন জাতীয় রচনা?",
+    "options": ["মুক্তিযুদ্ধের বিবরন", "মুক্তিযুদ্ধভিত্তিক উপন্যাস", "মুক্তিযোদ্ধাদের পত্র সংকলন", "ভিন্নধর্মী ডায়েরী"],
+    "answer": "মুক্তিযোদ্ধাদের পত্র সংকলন"
+  },
+   {
+      "question": "দিয়া, কর্তৃক-বাংলা ব্যাকরণ অনুযায়ী কোন বিভক্তি?",
+      "options": ["তৃতীয়া বিভক্তি", "প্রথমা বিভক্তি", "দ্বিতীয়া বিভক্তি", "শূণ্য বিভক্তি"],
+      "answer": "তৃতীয়া বিভক্তি"
+    },
+    {
+      "question": "অভিরাম’ শব্দের অর্থ কী?",
+      "options": ["বিরামহীন", "বালিশ", "চলন", "সুন্দর"],
+      "answer": "সুন্দর"
+    },
+    {
+      "question": "বাংলা কৃৎ-প্রত্যয় সাধিত শব্দ কোনটি?",
+      "options": ["কারক", "লিখিত", "বেদনা", "খেলনা"],
+      "answer": "খেলনা"
+    },
+    {
+      "question": "‘Attested’-এর বাংলা পরিভাষা কোনটি?",
+      "options": ["সত্যায়িত", "প্রত্যয়িত", "সত্যায়ন", "সংলগ্ন/সংলাগ"],
+      "answer": "প্রত্যয়িত"
+    },
+    {
+      "question": "কোনটি শুদ্ধ বানান?",
+      "options": ["প্রজ্বল", "প্রোজ্জল", "প্রোজ্বল", "প্রোজ্জল"],
+      "answer": "প্রোজ্জল"
+    },
+    {
+      "question": "‘জোছনা’ কোন শ্রেণির শব্দ?",
+      "options": ["যৌগিক", "তৎসম", "দেশী", "অর্ধ-তৎসম"],
+      "answer": "তৎসম"
+    },
+    {
+      "question": "‘জিজীবিষা’ শব্দটি দিয়ে বোঝায়-",
+      "options": ["জয়ের ইচ্ছা", "হত্যার ইচ্ছা", "বেঁচে থাকার ইচ্ছা", "শোনার ইচ্ছা"],
+      "answer": "হত্যার ইচ্ছা"
+    },
+    {
+      "question": "“সর্বাঙ্গীণ” শব্দের সঠিক প্রকৃতি-প্রত্যয়-",
+      "options": ["সবঙ্গ + ঈন", "সর্ব + অঙ্গীন", "সর্ব + ঙ্গীন", "সর্বাঙ্গ + ঈন"],
+      "answer": "সর্বাঙ্গ + ঈন"
+    },
+    {
+      "question": "অন্যের রচনা থেকে চুরি করাকে বলা হয়-",
+      "options": ["বেতসবৃত্তি", "পতঙ্গবৃত্তি", "জলৌকাবৃত্তি", "কুম্ভিলকবৃত্তি"],
+      "answer": "কুম্ভিলকবৃত্তি"
+    }
+]
+
+        },
+        {
+            "subject_name": "English",
+             "questions": [
+  {
+    "question": "In each of the following questions, out of the given alternatives, choose the one that best expresses the meaning of the given word: IMPROVEMENT",
+    "options": ["Promotion", "Advancement", "Betterment", "Preference"],
+    "answer": "Betterment"
+  },
+  {
+    "question": "AMICABLE",
+    "options": ["Interesting", "Loving", "Affectionate", "Friendly"],
+    "answer": "Friendly"
+  },
+  {
+    "question": "In each of the following questions, choose the word opposite in meaning to the given word : LIABILITY",
+    "options": ["Treasure", "Debt", "Assets", "Property"],
+    "answer": "Assets"
+  },
+  {
+    "question": "HATE",
+    "options": ["Admire", "Abhor", "Concern", "Loathe"],
+    "answer": "Admire"
+  },
+  {
+    "question": "In each of the following questions, out of the four alternatives, choose the one which can be substituted for the given words/sentence: A song embodying religious and sacred emotions-",
+    "options": ["lyrics", "Ode", "Hymn", "Ballad"],
+    "answer": "Hymn"
+  },
+  {
+    "question": "Time after twilight and before night-",
+    "options": ["Evening", "Dawn", "Dusk", "Eclipse"],
+    "answer": "Dusk"
+  },
+  {
+    "question": "Fill in the blanks in the following sentences by selecting the most appropriate alternative from among the four choices given: Parliamentary democracy demands discipline and — to the rules.",
+    "options": ["Adherence", "respectful", "knowledge", "awareness"],
+    "answer": "Adherence"
+  },
+  {
+    "question": "Reason is the highest faculty – on human by their creator.",
+    "options": ["entrusted", "endowed", "bestowed", "Conferred"],
+    "answer": "bestowed"
+  },
+  {
+    "question": "Each of the following idioms is followed by some alternatives. Choose the one which best expresses its meaning: To keep one’s head",
+    "options": ["to save oneself", "to be self respectful", "to keep calm", "None of these"],
+    "answer": "to keep calm"
+  },
+  {
+    "question": "To put the cart before the horse",
+    "options": [
+      "to offer a person what he cannot eat",
+      "to force a person to do something",
+      "to raise obstacle",
+      "to reverse the natural order of things"
+    ],
+    "answer": "to reverse the natural order of things"
+  },
+  {
+    "question": "To read between the lines",
+    "options": ["to concentrate", "to suspect", "to read carefully", "to grasp the hidden meaning"],
+    "answer": "to grasp the hidden meaning"
+  },
+  {
+    "question": "In each of the following questions, a sentence has been given in active (or passive) voice. Out of the four alternatives suggested, select the one which best expresses the same sentence in passive (or Active) voice: I know him",
+    "options": ["He is known by me", "He was known to me", "He has been known by me", "He is known to me"],
+    "answer": "He is known to me"
+  },
+  {
+    "question": "A lion may be helped even by a little mouse.",
+    "options": [
+      "A little mouse may even help a lion",
+      "Even a little mouse may help a lion",
+      "A little mouse can even help a lion",
+      "Even a little mouse ought to help a lion"
+    ],
+    "answer": "Even a little mouse may help a lion"
+  },
+  {
+    "question": "Choose the correctly spelt word:",
+    "options": ["Liesure", "Leisure", "Leasure", "Lesiure"],
+    "answer": "Leisure"
+  },
+  {
+    "question": "A. Superceed\nB. Superseed\nC. Supercede\nD. Supersede",
+    "options": ["A", "B", "C", "D"],
+    "answer": "D"
+  },
+  {
+    "question": "Of the four alternatives given under each sentence, find the one that best fits into the blank space: The horror movie scared them out of their_____",
+    "options": ["wits", "seats", "lives", "Funds"],
+    "answer": "wits"
+  },
+  {
+    "question": "The people who carry a coffin at a funeral are called to___",
+    "options": ["undertakers", "supporters", "pallbearers", "mourners"],
+    "answer": "pallbearers"
+  },
+  {
+    "question": "I have not heard from him__",
+    "options": ["long since", "for a long time", "since long", "for long"],
+    "answer": "for long"
+  },
+  {
+    "question": "Honey is__sweet.",
+    "options": ["very", "too much", "much too", "excessive"],
+    "answer": "very"
+  },
+  {
+    "question": "Your conduct admits __ no excuse.",
+    "options": ["to", "for", "of", "at"],
+    "answer": "of"
+  },
+  {
+    "question": "He had a __ headache.",
+    "options": ["strong", "acute", "serious", "bad"],
+    "answer": "bad"
+  },
+  {
+    "question": "I shall not __ the examination this year",
+    "options": ["give", "appear at", "sit", "go for"],
+    "answer": "appear at"
+  },
+  {
+    "question": "They travelled to Savar__",
+    "options": ["on foot", "by walking", "on their feet", "by foot"],
+    "answer": "on foot"
+  },
+  {
+    "question": "He said that he __ be unable come.",
+    "options": ["will", "shall", "should", "would"],
+    "answer": "would"
+  },
+  {
+    "question": "Naither Rini nor Simi __ qualified for the job.",
+    "options": ["are", "is", "were", "had"],
+    "answer": "is"
+  },
+  {
+    "question": "He said that he __ the previous day.",
+    "options": ["has come", "had come", "came", "arrived"],
+    "answer": "had come"
+  },
+  {
+    "question": "He watched the boat __ down the river.",
+    "options": ["to float", "floating", "was floating", "had floated"],
+    "answer": "floating"
+  },
+  {
+    "question": "‘Good’ is to ‘bad’ as ‘white’ is to__",
+    "options": ["dark", "grey", "black", "ebony"],
+    "answer": "black"
+  },
+  {
+    "question": "'Botany' is to 'plants' as 'Zoology' is to__.",
+    "options": ["flowers", "trees", "dear", "animals"],
+    "answer": "animals"
+  },
+  {
+    "question": "When one is 'pragmatic' he is being__",
+    "options": ["wasteful", "productive", "practical", "fussy"],
+    "answer": "practical"
+  },
+  {
+    "question": "\"Into the __ of death rode the six hundred.\"",
+    "options": ["city", "tunnel", "road", "valley"],
+    "answer": "valley"
+  },
+  {
+    "question": "\"To be or not to be, that is the__\".",
+    "options": ["meaning", "question", "answer", "issue"],
+    "answer": "question"
+  },
+  {
+    "question": "\"I have a __ that one day this nation will live out the true meaning of its creed that all men are created equal\"",
+    "options": ["desire", "hope", "dream", "wish"],
+    "answer": "dream"
+  },
+  {
+    "question": "Who wrote the two famous novels, ‘David Copperfield’ and ‘The Tale Of Two Cities’?",
+    "options": ["Thomas Hardy", "Jane Austen", "George Eliot", "Charles Dickens"],
+    "answer": "Charles Dickens"
+  },
+  {
+    "question": "Who wrote the plays, ‘The Tempest’ and ‘The Mid Summer Night’s Dream’?",
+    "options": ["Ben Johnson", "Christopher", "John Dryden", "William Shakespeare"],
+    "answer": "William Shakespeare"
+  }
+]
+
+
+        },
+ {
+            "subject_name": "Math",
+             "questions": [
+ 
+  {
+    "question": "বৃত্তের কেন্দ্র ছেদকারী জ্যা কে কী বলা হয়?",
+    "options": ["ব্যাস", "ব্যাসার্ধ", "বৃত্তচাপ", "পরিধি"],
+    "answer": "ব্যাস"
+  },
+  {
+    "question": "দুটি সন্নিহিত কোণের সমষ্টি দুই সমকোণ হলে একটিকে অপরটির কী বলে?",
+    "options": ["সন্নিহিত কোণ", "সরলকোণ", "পূরককোণ", "সম্পূরক কোণ"],
+    "answer": "সম্পূরক কোণ"
+  },
+  {
+    "question": "a + b = 7 এবং (a2+b2=25) হলে নিচের কোনটি ab এর মান হবে?",
+    "options": ["12", "10", "6", "কোনটিই নয়"],
+    "answer": "12"
+  },
+  {
+    "question": "loga(m/n)= কত?",
+    "options": ["(logam−logan)", "(logam+logan)", "(logam X logan)", "কোনটিই নয়"],
+    "answer": "(logam−logan)"
+  },
+  {
+    "question": "একটি আয়তক্ষেত্রের দৈর্ঘ্য প্রস্থের দ্বিগুণ। আয়তক্ষেত্রটির ক্ষেত্রফল 1250 বৰ্গমিটার হলে এর দৈর্ঘ্য কত?",
+    "options": ["30 মিটার", "40 মিটার", "50 মিটার", "60 মিটার"],
+    "answer": "50 মিটার"
+  },
+  {
+    "question": "f(x) = (x3+kx2−6x−9); k-এর মান কত হলে f(3) = 0 হবে?",
+    "options": ["1", "-1", "2", "0"],
+    "answer": "0"
+  },
+  {
+    "question": "নিচের কোনটি মৌলিক সংখ্যা?",
+    "options": ["৯১", "৮৭", "৬৩", "৫৯"],
+    "answer": "৫৯"
+  },
+  {
+    "question": "3x3+2x2–21x−20 রাশিটির একটি উৎপাদক হচ্ছে—",
+    "options": ["x + 2", "x – 2", "x + 1", "x – 1"],
+    "answer": "x + 1"
+  },
+  {
+    "question": "৩, ৯ ও ৪ এর চতুর্থ সমানুপাতিক কত?",
+    "options": ["৪", "১৪", "১৬", "১২"],
+    "answer": "১২"
+  },
+  {
+    "question": "১৩ ¾ % এর সমান",
+    "options": ["১১/৮০", "১১/২০", "১/৯", "১/৮"],
+    "answer": "১১/৮০"
+  },
+  {
+    "question": "কোন ত্রিভুজের বাহুগুলাের অনুপাত নিচের কোনটি হলে একটি সমকোণী ত্রিভুজ অংকন সম্ভব হবে?",
+    "options": ["৬ : ৫ : ৪", "৩ : ৪ : ৫", "১২ : ৮ : ৪", "৬ : ৪ : ৩"],
+    "answer": "৩ : ৪ : ৫"
+  },
+  {
+    "question": "দুটি ত্রিভুজ পরস্পর সর্বসম হওয়ার জন্য নিচের কোন শর্তটি যথেষ্ট নয়?",
+    "options": [
+      "একটির তিনবাহু অপরটির তিন বাহুর সমান",
+      "একটির তিন কোণ অপরটির তিন কোণের সমান",
+      "একটির দুই কোণ ও একবাহু অপরটির দুইকোণ ও অনুরূপ বাহুর সমান",
+      "একটির দুই বাহু ও অন্তর্ভুক্ত কোণ অপরটির দুই বাহু ও অন্তর্ভুক্ত কোণের সমান"
+    ],
+    "answer": "একটির তিন কোণ অপরটির তিন কোণের সমান"
+  },
+  {
+    "question": "a – 1/a = 3 হলে a3+1/a3 এর মান কত?",
+    "options": ["9", "18", "27", "36"],
+    "answer": "9"
+  },
+  {
+    "question": "নিম্নের কোনটি বৃত্তের সমীকরণ?",
+    "options": ["ax2+bx+c=0", "y2=ax", "x2+y2=16", "y2=2x+7"],
+    "answer": "x2+y2=16"
+  },
+  {
+    "question": "x> y এবং z< 0 হলে নিচের কোনটি সঠিক?",
+    "options": ["xz > yz", "x/z > y/z", "z/x < z/y", "xz < yz"],
+    "answer": "xz < yz"
+  },
+  {
+    "question": "ক ও খ একত্রে একটি কাজ ১২ দিনে করতে পারে। ক একা কাজটি ২০ দিনে করতে পারে। খ একা কাজটি কত দিনে করতে পারবে?",
+    "options": ["২৫ দিনে", "৩০ দিনে", "৩৫ দিনে", "৪০ দিনে"],
+    "answer": "৩০ দিনে"
+  },
+  {
+    "question": "একটি সংখ্যা ৩০১ হতে যত বড় ৩৮১ হতে তত ছোট। সংখ্যাটি কত?",
+    "options": ["৩৪০", "৩৪১", "৩৪২", "৩৪৪"],
+    "answer": "৩৪১"
+  },
+  {
+    "question": "নিচের কোনটি ক্ষুদ্রতম সংখ্যা?",
+    "options": ["০.৩", "√০.৩", "১/৩", "২/৫"],
+    "answer": "০.৩"
+  },
+  {
+    "question": "কোন লঘিষ্ঠ সংখ্যার সাথে ২ যােগ করলে যােগফল ১২, ১৮ এবং ২৪ দ্বারা বিভাজ্য হবে?",
+    "options": ["৮৯", "৭০", "১৭০", "১৪২"],
+    "answer": "৭০"
+  },
+  {
+    "question": "বৃত্তের কেন্দ্র ছেদকারী জ্যা কে কী বলা হয়?",
+    "options": ["ব্যাস", "ব্যাসার্ধ", "বৃত্তচাপ", "পরিধি"],
+    "answer": "ব্যাস"
+  }
+]
+
+
+        },
+
+        {
+            "subject_name": "GK",
+             "questions":[
+  {
+    "question": "ফল পাকানাের জন্য দায়ী কী?",
+    "options": ["ইথিলিন", "প্রপিন", "লাইকোপেন", "মিথিলিন"],
+    "answer": "ইথিলিন"
+  },
+  {
+    "question": "স্টিফেন হকিন্স বিশ্বের একজন অতিশয় বিখ্যাত –",
+    "options": ["দার্শনিক", "পদার্থবিদ", "কবি", "রসায়নবিদ"],
+    "answer": "পদার্থবিদ"
+  },
+  {
+    "question": "কোন জারক রস পাকস্থলীতে দুগ্ধ জমাট বাধায়?",
+    "options": ["পেপসিন", "এমাইলেজ", "রেনিন", "ট্রিপসিন"],
+    "answer": "রেনিন"
+  },
+  {
+    "question": "কোন মাধ্যমে শব্দের গতি সর্বাপেক্ষা কম?",
+    "options": ["শূন্যতায়", "কঠিন পদার্থে", "তরল পদার্থে", "বায়বীয় পদার্থে"],
+    "answer": "বায়বীয় পদার্থে"
+  },
+  {
+    "question": "কম্পিউটার থেকে কম্পিউটারে তথ্য আদান-প্রদানের প্রযুক্তিকে বলা হয়-",
+    "options": ["ই-মেইল", "ইন্টারকম", "ইন্টারনেট", "টেলিগ্রাম"],
+    "answer": "ইন্টারনেট"
+  },
+  {
+    "question": "বিশ্ব পরিবেশ দিবস কোনটি?",
+    "options": ["৫ মে", "৫ জুন", "১৫ মে", "১৫ জুন"],
+    "answer": "৫ জুন"
+  },
+  {
+    "question": "নবায়নযোগ্য জ্বালানি কোনটি?",
+    "options": ["পরমাণু শক্তি", "কয়লা", "পেট্রোল", "প্রাকৃতিক গ্যাস"],
+    "answer": "পরমাণু শক্তি"
+  },
+  {
+    "question": "কিসের অভাবে ফসলের পরিপকৃতা বিলম্বিত হয়?",
+    "options": ["দস্তা", "সালফার", "নাইট্রোজেন", "পটাশিয়াম"],
+    "answer": "সালফার"
+  },
+  {
+    "question": "জমির লবণাক্ততা নিয়ন্ত্রণ করে কোনটি?",
+    "options": ["কৃত্রিম সার প্রয়ােগ", "পানি সেচ", "জমিতে নাইট্রোজেন ধরে রাখা", "প্রাকৃতিক সার প্রয়ােগ"],
+    "answer": "পানি সেচ"
+  },
+  {
+    "question": "কত বছর পর পর হ্যালির ধূমকেতু দেখা যায়?",
+    "options": ["৭০ বছর", "৬৫ বছর", "৭৬ বছর", "৮০ বছর"],
+    "answer": "৭৬ বছর"
+  },
+  {
+    "question": "সুনামির (Tsunami) কারণ হলাে—",
+    "options": ["আগ্নেয়গিরির অগ্ন্যুৎপাত", "ঘূর্ণিঝড়", "চন্দ্র ও সূর্যের আকর্ষণ", "সমুদ্র তলদেশের ভূমিকম্প"],
+    "answer": "সমুদ্র তলদেশের ভূমিকম্প"
+  },
+  {
+    "question": "ডেঙ্গু জ্বরের বাহক কোন মশা?",
+    "options": ["কিউলেক্স", "এডিস", "এ্যানােফিলিস", "সব ধরনের মশা"],
+    "answer": "এডিস"
+  },
+  {
+    "question": "অ্যালুমিনিয়াম সালফেটকে চলতি বাংলায় কী বলে?",
+    "options": ["ফিটকিরি", "চুন", "সেভিং সােপ", "কস্টিক সােডা"],
+    "answer": "ফিটকিরি"
+  },
+  {
+    "question": "এনজিওপ্লাস্টি হচ্ছে-",
+    "options": ["হৃৎপিণ্ডের বন্ধ শিরা বেলুনের সাহায্যে ফোলানো", "হৃৎপিণ্ডে নতুন শিরা সংযােজন", "হৃৎপিণ্ডের মৃত টিস্যু কেটে ফেলে দেয়া", "হৃৎপিণ্ডের টিস্যুতে নতুন টিস্যু সংযােজন"],
+    "answer": "হৃৎপিণ্ডের বন্ধ শিরা বেলুনের সাহায্যে ফোলানো"
+  },
+  {
+    "question": "“ডায়াবেটিস রােগ সম্পর্কে যে তথ্যটি সত্য নয় তা হলাে—“",
+    "options": ["রােগ মানবদেহের কিডনি নষ্ট করে", "চিনিজাতীয় খাবার বেশি খেলে এ রােগ হয়", "এ রােগ হলে রক্তে গ্লুকোজের মাত্রা বৃদ্ধি পায়", "ইনসুলিনের অভাবে এ রােগ হয়"],
+    "answer": "চিনিজাতীয় খাবার বেশি খেলে এ রােগ হয়"
+  },
+  {
+    "question": "“রঙিন টেলিভিশন থেকে ক্ষতিকর রশ্মি বের হয়”",
+    "options": ["গামা রশ্মি", "বিটা রশ্মি", "কসমিক রশ্মি", "রঞ্জন রশ্মি"],
+    "answer": "গামা রশ্মি"
+  },
+  {
+    "question": "বৈদ্যুতিক পাখা ধীরে ধীরে ঘুরলে বিদ্যুৎ খরচ-",
+    "options": ["কম হয়", "খুব কম হয়", "একই হয়", "বেশি হয়"],
+    "answer": "একই হয়"
+  },
+  {
+    "question": "সংকর ধাতু পিতলের উপাদান-",
+    "options": ["তামা ও টিন", "তামা ও দস্তা", "তামা ও নিকেল", "তামা ও সিসা"],
+    "answer": "তামা ও দস্তা"
+  },
+  {
+    "question": "গ্রিন হাউস ইফেক্টের পরিণতিতে বাংলাদেশের সবচেয়ে গুরুতর ক্ষতি কী হবে?",
+    "options": ["বৃষ্টিপাত কমে যাবে", "নিম্নভূমি নিমজ্জিত হবে", "উত্তাপ অনেক বেড়ে যাবে", "সাইক্লোনের প্রবণতা বাড়বে"],
+    "answer": "নিম্নভূমি নিমজ্জিত হবে"
+  },
+  {
+    "question": "রাসায়নিক অগ্নিনির্বাপক কাজ করে অগ্নিতে",
+    "options": ["হাইড্রোজেন সরবরাহ করে", "নাইট্রোজেন সরবরাহ করে", "অক্সিজেন সরবরাহ করে", "অক্সিজেন সরবরাহে প্রতিবন্ধকতা সৃষ্টি করে"],
+    "answer": "অক্সিজেন সরবরাহে প্রতিবন্ধকতা সৃষ্টি করে"
+  },
+  {
+    "question": "কিরগিজস্তানের রাজধানী কোথায়?",
+    "options": ["বিশকেক", "আলমা আতা", "আশখাবাদ", "উলানবাটোর"],
+    "answer": "বিশকেক"
+  },
+  {
+    "question": "FIFA প্রতিষ্ঠিত হয় কবে?",
+    "options": ["১৯০৪", "১৯২৪", "১৯১৪", "১৯০৫"],
+    "answer": "১৯০৪"
+  },
+  {
+    "question": "বিশ্ব মানবাধিকার দিবস কবে পালিত হয়?",
+    "options": ["২৬ জুন", "১ আগস্ট", "১ মে", "১০ ডিসেম্বর"],
+    "answer": "১০ ডিসেম্বর"
+  },
+  {
+    "question": "কবে রেডক্রস প্রতিষ্ঠিত হয়?",
+    "options": ["১৮৬৩ সালে", "১৮৬৮ সালে", "১৮৬৬ সালে", "১৮৬১ সালে"],
+    "answer": "১৮৬৩ সালে"
+  },
+  {
+    "question": "কোথায় সেনাবাহিনী নেই?",
+    "options": ["সুদান", "সাইপ্রাস", "মালদ্বীপ", "ভুটান"],
+    "answer": "মালদ্বীপ"
+  },
+  {
+    "question": "হাজার হ্রদের দেশ কোনটি?",
+    "options": ["নরওয়ে", "ফিনল্যান্ড", "ইন্দোনেশিয়া", "জাপান"],
+    "answer": "ফিনল্যান্ড"
+  },
+  {
+    "question": "নিম্নের কোন দেশটি G-8 এর সদস্য নয়?",
+    "options": ["জাপান", "যুক্তরাজ্য", "ফ্রান্স", "সুইডেন"],
+    "answer": "সুইডেন"
+  },
+  {
+    "question": "আলফ্রেড নােবেল কী আবিষ্কার করেন?",
+    "options": ["ডিনামাইট", "বিদ্যুৎ", "পােলিও টিকা", "কয়লা"],
+    "answer": "ডিনামাইট"
+  },
+  {
+    "question": "বিশ্বের সবচেয়ে বড় অর্থনৈতিক জোট কোনটি?",
+    "options": ["EU", "WTO", "NATO", "FIFA"],
+    "answer": "EU"
+  },
+  {
+    "question": "ষোড়শ সার্ক সম্মেলন কোথায় অনুষ্ঠিত হয়?",
+    "options": ["ঢাকা", "কাঠমান্ডু", "থিম্পু", "মালে"],
+    "answer": "থিম্পু"
+  }
+]
+
+        },
+        {
+            "subject_name": "বাংলাদেশ বিষয়াবলী",
+             "questions": [
+  {
+    "question": "সুনামির (Tsunami) কারণ হলাে—",
+    "options": ["আগ্নেয়গিরির অগ্ন্যুৎপাত", "ঘূর্ণিঝড়", "চন্দ্র ও সূর্যের আকর্ষণ", "সমুদ্র তলদেশের ভূমিকম্প"],
+    "answer": "সমুদ্র তলদেশের ভূমিকম্প"
+  },
+  {
+    "question": "ডেঙ্গু জ্বরের বাহক কোন মশা?",
+    "options": ["কিউলেক্স", "এডিস", "এ্যানােফিলিস", "সব ধরনের মশা"],
+    "answer": "এডিস"
+  },
+  {
+    "question": "অ্যালুমিনিয়াম সালফেটকে চলতি বাংলায় কী বলে?",
+    "options": ["ফিটকিরি", "চুন", "সেভিং সােপ", "কস্টিক সােডা"],
+    "answer": "ফিটকিরি"
+  },
+  {
+    "question": "এনজিওপ্লাস্টি হচ্ছে-",
+    "options": ["হৃৎপিণ্ডের বন্ধ শিরা বেলুনের সাহায্যে ফোলানো", "হৃৎপিণ্ডে নতুন শিরা সংযােজন", "হৃৎপিণ্ডের মৃত টিস্যু কেটে ফেলে দেয়া", "হৃৎপিণ্ডের টিস্যুতে নতুন টিস্যু সংযােজন"],
+    "answer": "হৃৎপিণ্ডের বন্ধ শিরা বেলুনের সাহায্যে ফোলানো"
+  },
+  {
+    "question": "“ডায়াবেটিস রােগ সম্পর্কে যে তথ্যটি সত্য নয় তা হলাে—“",
+    "options": ["রােগ মানবদেহের কিডনি নষ্ট করে", "চিনিজাতীয় খাবার বেশি খেলে এ রােগ হয়", "এ রােগ হলে রক্তে গ্লুকোজের মাত্রা বৃদ্ধি পায়", "ইনসুলিনের অভাবে এ রােগ হয়"],
+    "answer": "চিনিজাতীয় খাবার বেশি খেলে এ রােগ হয়"
+  },
+  {
+    "question": "“রঙিন টেলিভিশন থেকে ক্ষতিকর রশ্মি বের হয়”",
+    "options": ["গামা রশ্মি", "বিটা রশ্মি", "কসমিক রশ্মি", "রঞ্জন রশ্মি"],
+    "answer": "গামা রশ্মি"
+  },
+  {
+    "question": "বৈদ্যুতিক পাখা ধীরে ধীরে ঘুরলে বিদ্যুৎ খরচ-",
+    "options": ["কম হয়", "খুব কম হয়", "একই হয়", "বেশি হয়"],
+    "answer": "একই হয়"
+  },
+  {
+    "question": "সংকর ধাতু পিতলের উপাদান-",
+    "options": ["তামা ও টিন", "তামা ও দস্তা", "তামা ও নিকেল", "তামা ও সিসা"],
+    "answer": "তামা ও দস্তা"
+  },
+  {
+    "question": "গ্রিন হাউস ইফেক্টের পরিণতিতে বাংলাদেশের সবচেয়ে গুরুতর ক্ষতি কী হবে?",
+    "options": ["বৃষ্টিপাত কমে যাবে", "নিম্নভূমি নিমজ্জিত হবে", "উত্তাপ অনেক বেড়ে যাবে", "সাইক্লোনের প্রবণতা বাড়বে"],
+    "answer": "নিম্নভূমি নিমজ্জিত হবে"
+  },
+  {
+    "question": "রাসায়নিক অগ্নিনির্বাপক কাজ করে অগ্নিতে",
+    "options": ["হাইড্রোজেন সরবরাহ করে", "নাইট্রোজেন সরবরাহ করে", "অক্সিজেন সরবরাহ করে", "অক্সিজেন সরবরাহে প্রতিবন্ধকতা সৃষ্টি করে"],
+    "answer": "অক্সিজেন সরবরাহে প্রতিবন্ধকতা সৃষ্টি করে"
+  },
+  {
+    "question": "কিরগিজস্তানের রাজধানী কোথায়?",
+    "options": ["বিশকেক", "আলমা আতা", "আশখাবাদ", "উলানবাটোর"],
+    "answer": "বিশকেক"
+  },
+  {
+    "question": "FIFA প্রতিষ্ঠিত হয় কবে?",
+    "options": ["১৯০৪", "১৯২৪", "১৯১৪", "১৯০৫"],
+    "answer": "১৯০৪"
+  },
+  {
+    "question": "বিশ্ব মানবাধিকার দিবস কবে পালিত হয়?",
+    "options": ["২৬ জুন", "১ আগস্ট", "১ মে", "১০ ডিসেম্বর"],
+    "answer": "১০ ডিসেম্বর"
+  },
+  {
+    "question": "কবে রেডক্রস প্রতিষ্ঠিত হয়?",
+    "options": ["১৮৬৩ সালে", "১৮৬৮ সালে", "১৮৬৬ সালে", "১৮৬১ সালে"],
+    "answer": "১৮৬৩ সালে"
+  },
+  {
+    "question": "কোথায় সেনাবাহিনী নেই?",
+    "options": ["সুদান", "সাইপ্রাস", "মালদ্বীপ", "ভুটান"],
+    "answer": "মালদ্বীপ"
+  },
+  {
+    "question": "হাজার হ্রদের দেশ কোনটি?",
+    "options": ["নরওয়ে", "ফিনল্যান্ড", "ইন্দোনেশিয়া", "জাপান"],
+    "answer": "ফিনল্যান্ড"
+  },
+  {
+    "question": "নিম্নের কোন দেশটি G-8 এর সদস্য নয়?",
+    "options": ["জাপান", "যুক্তরাজ্য", "ফ্রান্স", "সুইডেন"],
+    "answer": "সুইডেন"
+  },
+  {
+    "question": "আলফ্রেড নােবেল কী আবিষ্কার করেন?",
+    "options": ["ডিনামাইট", "বিদ্যুৎ", "পােলিও টিকা", "কয়লা"],
+    "answer": "ডিনামাইট"
+  },
+  {
+    "question": "বিশ্বের সবচেয়ে বড় অর্থনৈতিক জোট কোনটি?",
+    "options": ["EU", "WTO", "NATO", "FIFA"],
+    "answer": "EU"
+  },
+  {
+    "question": "ষোড়শ সার্ক সম্মেলন কোথায় অনুষ্ঠিত হয়?",
+    "options": ["ঢাকা", "কাঠমান্ডু", "থিম্পু", "মালে"],
+    "answer": "থিম্পু"
+  }
+]
+
+        },       
+        {
+            "subject_name": "বিশ্ব বিষয়াবলী",
+           "questions": [
+  {
+    "question": "মার্কিন যুক্তরাষ্ট্রের বর্তমান পররাষ্ট্রমন্ত্রীর নাম কী?",
+    "options": ["জর্জ বুশ", "হিলারি ক্লিনটন", "রবার্ট গেইট", "কন্ডোলিসা রাইস"],
+    "answer": "হিলারি ক্লিনটন"
+  },
+  {
+    "question": "‘ডেভিস কাপ’ কোন খেলায় দেয়া হয়?",
+    "options": ["ব্যাডমিন্টন", "লন টেনিস", "টেবিল টেনিস", "ক্রিকেট"],
+    "answer": "লন টেনিস"
+  },
+  {
+    "question": "কোন বিজ্ঞানী রোগজীবাণু তত্ত্ব উদ্ভাবন করেন?",
+    "options": ["লুইপাস্তুর", "ডারউইন", "প্রিস্টলী", "ল্যাভয়েসিয়ে"],
+    "answer": "লুইপাস্তুর"
+  },
+  {
+    "question": "অন্ধদের জন্য লিখনরীতির উদ্ভাবন করেন-",
+    "options": ["লুইস ব্রেইল", "কপার্নিকাস", "ডেভিটবোর", "টমাস আলভা এডিসন"],
+    "answer": "লুইস ব্রেইল"
+  },
+  {
+    "question": "আইএলও- এর সদর দপ্তর কোথায় অবস্থিত?",
+    "options": ["লন্ডন", "জেনেভা", "নিউইয়র্ক", "দিল্লি"],
+    "answer": "জেনেভা"
+  },
+  {
+    "question": "এসকাপের সদর দপ্তর কোথায় অবস্থিত?",
+    "options": ["ব্যাংকক", "সিঙ্গাপুর", "দিল্লি", "কলম্বো"],
+    "answer": "ব্যাংকক"
+  },
+  {
+    "question": "ইউরোপীয় ইউনিয়নের সদরদপ্তর কোথায়?",
+    "options": ["লন্ডন", "ব্রাসেলস্", "বন", "প্যারিস"],
+    "answer": "ব্রাসেলস্"
+  },
+  {
+    "question": "জাতিসংঘের সদর দপ্তর কোথায় অবস্থিত?",
+    "options": ["লন্ডন", "নিউইয়র্ক", "প্যারিস", "মস্কো"],
+    "answer": "নিউইয়র্ক"
+  },
+  {
+    "question": "সার্কের সচিবালয় কোথায় অবস্থিত?",
+    "options": ["দিল্লি", "ইসলামাবাদ", "কাঠমুন্ডু", "ঢাকা"],
+    "answer": "কাঠমুন্ডু"
+  },
+  {
+    "question": "খাদ্য ও কৃষি সংস্থার প্রধান কার্যালয় কোথায় অবস্থিত?",
+    "options": ["নিউইয়র্ক", "রোমে", "জেনেভায়", "অটোয়ায়"],
+    "answer": "রোমে"
+  },
+  {
+    "question": "ষোড়শ সার্ক সম্মেলন কোথায় অনুষ্ঠিত হয়?",
+    "options": ["ঢাকা", "কাঠমাণ্ডু", "থিম্পু", "মালে"],
+    "answer": "থিম্পু"
+  },
+  {
+    "question": "বিশ্বের সবচেয়ে বড় অর্থনৈতিক জোট কোনটি?",
+    "options": ["EU", "WTO", "NATO", "FIFA"],
+    "answer": "WTO"
+  },
+  {
+    "question": "আলফ্রেড নোবেল কি আবিষ্কার করেন?",
+    "options": ["ডিনামাইট", "বিদ্যুৎ", "পোলিও টিকা", "কয়লা"],
+    "answer": "ডিনামাইট"
+  },
+  {
+    "question": "নিম্নের কোন দেশটি G-7 এর সদস্য নয়?",
+    "options": ["জাপান", "যুক্তরাজ্য", "ফ্রান্স", "সুইডেন"],
+    "answer": "সুইডেন"
+  },
+  {
+    "question": "হাজার হ্রদের দেশ কোনটি?",
+    "options": ["নরওয়ে", "ফিনল্যান্ড", "ইন্দোনেশিয়া", "জাপান"],
+    "answer": "ফিনল্যান্ড"
+  },
+  {
+    "question": "কোথায় সেনাবাহিনী নেই?",
+    "options": ["সুদান", "সাইপ্রাস", "মালদ্বীপ", "ভুটান"],
+    "answer": "মালদ্বীপ"
+  },
+  {
+    "question": "কবে রেডক্রস প্রতিষ্ঠিত হয়?",
+    "options": ["১৮৬৩ সালে", "১৮৬৮ সালে", "১৮৬৬ সালে", "১৮৬১ সালে"],
+    "answer": "১৮৬৩ সালে"
+  },
+  {
+    "question": "বিশ্ব মানবাধিকার দিবস কবে পালিত হয়?",
+    "options": ["২৬ জুন", "১ আগস্ট", "১ মে", "১০ ডিসেম্বর"],
+    "answer": "১০ ডিসেম্বর"
+  },
+  {
+    "question": "FIFA প্রতিষ্ঠিত হয় কবে?",
+    "options": ["১৯০৪", "১৯২৪", "১৯১৪", "১৯০৫"],
+    "answer": "১৯০৪"
+  },
+  {
+    "question": "কিরগিজস্তানের রাজধানী কোথায়?",
+    "options": ["বিশকেক", "আলমাআতা", "আশখাবাদ", "উলানবাটো"],
+    "answer": "বিশকেক"
+  }
+]
+
+
+        },
+        {
+            "subject_name": "মানসিক দক্ষতা",
+           "questions": [
+  {
+    "question": "একটি ঘড়িতে ১২ টা বাজে। ৬ ঘণ্টা পরে ঘড়ির কাঁটাগুলো কী অবস্থানে থাকবে?",
+    "options": ["৬ টা", "১২ টা", "৩ টা", "৯ টা"],
+    "answer": "৬ টা"
+  },
+  {
+    "question": "ধারাবাহিক সংখ্যাটি পূরণ করুন: ৫, ১০, ২০, ৪০, ?",
+    "options": ["৮০", "১০০", "৭০", "৯০"],
+    "answer": "৮০"
+  },
+  {
+    "question": "যদি CAT = ২৪ এবং DOG = ২৬ হয়, তাহলে BAT এর মান কত?",
+    "options": ["২০", "২১", "২২", "২৩"],
+    "answer": "২২"
+  },
+  {
+    "question": "একটি টেবিলে ৪ কোণ আছে। একটি কোণ কেটে ফেললে টেবিলে কয়টি কোণ থাকবে?",
+    "options": ["৩", "৫", "৬", "৪"],
+    "answer": "৫"
+  },
+  {
+    "question": "যদি একটি ঘড়ি প্রতিদিন ১০ মিনিট পিছিয়ে যায়, তবে ১ সপ্তাহ পর ঘড়ি কত মিনিট পিছিয়ে থাকবে?",
+    "options": ["৭০ মিনিট", "৬০ মিনিট", "৮০ মিনিট", "৫০ মিনিট"],
+    "answer": "৭০ মিনিট"
+  },
+  {
+    "question": "ধারাবাহিক সংখ্যা পূরণ করুন: ১, ৪, ৯, ১৬, ২৫, ?",
+    "options": ["৩০", "৩২", "৩৬", "৩৪"],
+    "answer": "৩৬"
+  },
+  {
+    "question": "যদি 'MANGO' কে 'NGOMA' লেখা হয়, তাহলে 'APPLE' কীভাবে লেখা হবে?",
+    "options": ["LEAPP", "PPLEA", "LEAPP", "APPEL"],
+    "answer": "PPLEA"
+  },
+  {
+    "question": "একটি বইয়ের মূল্য ৫০০ টাকা। যদি ২০% ছাড় দেওয়া হয়, তাহলে মূল্য কত হবে?",
+    "options": ["৪৫০ টাকা", "৪২০ টাকা", "৪০০ টাকা", "৪৮০ টাকা"],
+    "answer": "৪০০ টাকা"
+  },
+  {
+    "question": "ধারাবাহিক পূরণ করুন: A, E, I, O, ?",
+    "options": ["X", "U", "Y", "V"],
+    "answer": "U"
+  },
+  {
+    "question": "যদি ২ + ৩ = ১৩ এবং ৩ + ৪ = ২৫ হয়, তাহলে ৪ + ৫ = ?",
+    "options": ["৩০", "৩৫", "৩৯", "৪১"],
+    "answer": "৪১"
+  },
+  {
+    "question": "একটি ট্রেনের দৈর্ঘ্য ৩০০ মিটার, যা প্রতি ঘণ্টায় ৯০ কিমি গতিতে চলছে। ৬০০ মিটার প্ল্যাটফর্ম পার হতে কত সেকেন্ড লাগবে?",
+    "options": ["২০ সেকেন্ড", "২৪ সেকেন্ড", "৩০ সেকেন্ড", "৩৬ সেকেন্ড"],
+    "answer": "২৪ সেকেন্ড"
+  },
+  {
+    "question": "ধারাবাহিক পূরণ করুন: ২, ৩, ৫, ৭, ১১, ?",
+    "options": ["১২", "১৩", "১৪", "১৫"],
+    "answer": "১৩"
+  },
+  {
+    "question": "যদি 'PEN' কে 'QFO' লেখা হয়, তাহলে 'BOOK' কীভাবে লেখা হবে?",
+    "options": ["CPOL", "CPPL", "CPOO", "CPLL"],
+    "answer": "CPPL"
+  },
+  {
+    "question": "একটি বাস প্রতি ১৫ মিনিটে আসে। ২ ঘণ্টায় বাসটি কতবার আসবে?",
+    "options": ["৮ বার", "৯ বার", "১০ বার", "১১ বার"],
+    "answer": "৯ বার"
+  },
+  {
+    "question": "যদি ১৫% ছাড়ে একটি জিনিস ১৭০০ টাকায় বিক্রি হয়, তবে আসল মূল্য কত?",
+    "options": ["১৯০০ টাকা", "২০০০ টাকা", "১৮৫০ টাকা", "২১০০ টাকা"],
+    "answer": "২০০০ টাকা"
+  },
+  {
+    "question": "ধারাবাহিক সংখ্যা পূরণ করুন: ১, ৩, ৬, ১০, ১৫, ?",
+    "options": ["১৮", "১৯", "২০", "২১"],
+    "answer": "২১"
+  },
+  {
+    "question": "একটি ক্লাসে ৬০ জন ছাত্রছাত্রী রয়েছে। যদি ছেলেদের সংখ্যা মেয়েদের চেয়ে ৮ বেশি হয়, তাহলে মেয়েদের সংখ্যা কত?",
+    "options": ["২৬", "২৭", "২৮", "২৯"],
+    "answer": "২৬"
+  },
+  {
+    "question": "ধারাবাহিক সংখ্যা পূরণ করুন: ৩, ৬, ১২, ২৪, ?",
+    "options": ["৩৮", "৪৮", "৫৬", "৫৪"],
+    "answer": "৪৮"
+  },
+  {
+    "question": "যদি CLOCK কে KCOLC লেখা হয়, তাহলে TABLE কে কীভাবে লেখা হবে?",
+    "options": ["ELTAB", "EBLAT", "LETBA", "EBTLA"],
+    "answer": "ELTAB"
+  },
+  {
+    "question": "একটি বাক্সে ৮টি লাল বল, ৭টি নীল বল, এবং ৫টি সবুজ বল রয়েছে। বাক্স থেকে একটি বল তোলার সম্ভাবনা কী যে তা নীল হবে?",
+    "options": ["7/20", "7/18", "7/21", "7/15"],
+    "answer": "7/20"
+  }
+]
+
+
+           
+        },
+
+
+
+         {
+            "subject_name": "ICT",
+             "questions": [
+              {
+    "question": "RAM এর পূর্ণরূপ কী?",
+    "options": [
+      "Read Access Memory",
+      "Random Access Memory",
+      "Random Application Memory",
+      "Read Application Memory"
+    ],
+    "answer": "Random Access Memory"
+  },
+  {
+    "question": "কোনটি ডেটাবেস ম্যানেজমেন্ট সিস্টেম?",
+    "options": ["MySQL", "Python", "HTML", "CSS"],
+    "answer": "MySQL"
+  },
+  {
+    "question": "কোনটি ইনপুট ডিভাইস?",
+    "options": ["প্রিন্টার", "মনিটর", "কীবোর্ড", "স্পিকার"],
+    "answer": "কীবোর্ড"
+  },
+  {
+    "question": "কোনটি অপারেটিং সিস্টেম?",
+    "options": ["Windows", "Google", "Instagram", "Facebook"],
+    "answer": "Windows"
+  },
+  {
+    "question": "RAM এর পূর্ণরূপ কী?",
+    "options": ["Read Access Memory", "Random Access Memory", "Random Application Memory", "Read Application Memory"],
+    "answer": "Random Access Memory"
+  },
+  {
+    "question": "কোনটি ডেটাবেস ম্যানেজমেন্ট সিস্টেম?",
+    "options": ["MySQL", "Python", "HTML", "CSS"],
+    "answer": "MySQL"
+  },
+  {
+    "question": "ফায়ারওয়াল কী কাজে ব্যবহৃত হয়?",
+    "options": ["হার্ডডিস্ক পরিষ্কার করার জন্য", "ম্যালওয়্যার আটকানোর জন্য", "ইন্টারনেট স্পিড বাড়ানোর জন্য", "প্রিন্টার চালানোর জন্য"],
+    "answer": "ম্যালওয়্যার আটকানোর জন্য"
+  },
+  {
+    "question": "পাস্কাল কোন ধরনের ভাষা?",
+    "options": ["প্রোগ্রামিং ভাষা", "মার্কআপ ভাষা", "স্ক্রিপ্টিং ভাষা", "সিস্টেম ভাষা"],
+    "answer": "প্রোগ্রামিং ভাষা"
+  },
+  {
+    "question": "ওয়েবসাইট তৈরিতে ব্যবহৃত হয় কোনটি?",
+    "options": ["Microsoft Excel", "HTML", "Adobe Reader", "Python"],
+    "answer": "HTML"
+  },
+  {
+    "question": "একটি মেগাবাইট (MB) সমান কত কিলোবাইট (KB)?",
+    "options": ["১০০০ KB", "১০২৪ KB", "১০৪৮ KB", "১১০০ KB"],
+    "answer": "১০২৪ KB"
+  },
+  {
+    "question": "কোনটি ওয়েব ব্রাউজার?",
+    "options": ["Chrome", "Windows", "Linux", "Excel"],
+    "answer": "Chrome"
+  },
+  {
+    "question": "ক্লাউড কম্পিউটিং কী?",
+    "options": ["ভার্চুয়াল সার্ভারে ডেটা সংরক্ষণ", "ফাইল ডিলিট করার প্রক্রিয়া", "সিস্টেম আপগ্রেডের পদ্ধতি", "কম্পিউটার রিস্টার্ট করার প্রক্রিয়া"],
+    "answer": "ভার্চুয়াল সার্ভারে ডেটা সংরক্ষণ"
+  },
+  {
+    "question": "কোনটি এক্সেল সফটওয়্যারের ফর্মুলা?",
+    "options": ["SUM(A1)", "ADD(A1)", "MULTI(A1)", "COMBINE(A1)"],
+    "answer": "SUM(A1)"
+  },
+  {
+    "question": "হার্ডডিস্কের গতি নির্ধারণ করা হয় কী দিয়ে?",
+    "options": ["RPM", "GB", "MB", "DPI"],
+    "answer": "RPM"
+  },
+  {
+    "question": "কোনটি আউটপুট ডিভাইস?",
+    "options": ["কীবোর্ড", "মাউস", "প্রিন্টার", "স্ক্যানার"],
+    "answer": "প্রিন্টার"
+  },
+  {
+    "question": "কোনটি প্রথম প্রোগ্রামিং ভাষা?",
+    "options": ["FORTRAN", "C", "BASIC", "COBOL"],
+    "answer": "FORTRAN"
+  },
+  {
+    "question": "IPv4 এর ঠিকানা সাইজ কত?",
+    "options": ["১৬ বিট", "৩২ বিট", "৬৪ বিট", "১২৮ বিট"],
+    "answer": "৩২ বিট"
+  },
+  {
+    "question": "এক গিগাহার্টজ (GHz) সমান কত?",
+    "options": ["১০০০ MHz", "১০২৪ MHz", "১০৪৮ MHz", "১১০০ MHz"],
+    "answer": "১০০০ MHz"
+  },
+  {
+    "question": "কম্পিউটারটির মূল অংশ কোনটি?",
+    "options": ["মাদারবোর্ড", "RAM", "CPU", "হার্ডডিস্ক"],
+    "answer": "CPU"
+  },
+  {
+    "question": "URL এর পূর্ণরূপ কী?",
+    "options": ["Uniform Resource Locator", "Universal Resource Link", "Unified Resource Link", "Uniform Relation Locator"],
+    "answer": "Uniform Resource Locator"
+  }
+]
+
+        }
+       
+    ]
+}

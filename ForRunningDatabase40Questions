@@ -1,0 +1,329 @@
+{
+    "year": 37,
+        "subjects": [
+            {
+                "subject_name": "Bangla",
+                "questions": [
+                    {
+                        "question": "“পুরষ্কার-বিতরণী অনুষ্ঠানের পরিবেশ এত অপরিস্কার”। বাক্যটির নিম্নরেখ পদে য/সব্যবহার –",
+                        "options": [
+                            "প্রথমটি অশুদ্ধ, দ্বিতীয়টি শুদ্ধ",
+                            "দুটোই অশুদ্ধ",
+                            "প্রথমটি শুদ্ধ, দ্বিতীয়টি অশুদ্ধ",
+                            "দুটোই শুদ্ধ"
+                        ],
+                        "answer": "দুটোই অশুদ্ধ"
+                    },
+                    {
+                        "question": "কোন বাক্যটি শুদ্ধ?",
+                        "options": [
+                            "দৈন্যতা সর্বদা মহত্বের পরিচায়ক নয়",
+                            "দৈন্যতা সর্বদা মহত্ত্বের পরিচায়ক নয়",
+                            "দৈন্য সর্বদা মহত্বের পরিচায়ক নয়",
+                            "দৈন্য সর্বদা মহত্ত্বের পরিচায়ক নয়"
+                        ],
+                        "answer":  "দৈন্য সর্বদা মহত্বের পরিচায়ক নয়"
+                    },
+                    {
+                        "question": "‘Consumer goods’-এর উপযুক্ত বাংলা পরিভাষা কী?",
+                        "options": [
+                            "ভোক্তার কল্যাণ",
+                            "ক্রয়কৃত পণ্য",
+                            "ভোগ্যপণ্য",
+                            "ক্রেতার গুণাগুণ"
+                        ],
+                        "answer": "ভোগ্যপণ্য"
+                    },
+                    {
+                        "question": "কোনটি শুদ্ধ বানান?",
+                        "options": ["স্বশুর", "শশুর", "শ্বসুর", "শ্বশুর"],
+                        "answer": "শ্বশুর"
+                    },
+                    {
+                        "question": "শব্দ : কর্ণ; আলোকে: ?",
+                        "options": ["শোনা", "বুদ্ধি", "চক্ষু", "অন্ধকার"],
+                        "answer": "চক্ষু"
+                    }, {
+                        "question": "‘বিজ্ঞান’ শব্দের যুক্তবর্ণের সঠিক রূপ কোনটি?",
+                        "options": [
+                            "জ + ঞ",
+                            "ঞ + গ",
+                            "ঞ + জ",
+                            "গ + ঞ"
+                        ],
+                        "answer": 1
+                    },{
+                        "question": "নিচের কোন শব্দটি প্রত্যয়যােগে গঠিত হয়নি?",
+                        "options": [
+                            "সভাসদ",
+                            "শুভেচ্ছা",
+                            "ফলবান",
+                            "তন্বী"
+                        ],
+                        "answer": 2
+                    },{
+                        "question": "বহুব্রীহি সমাসবদ্ধ পদ কোনটি?",
+                        "options": [
+                            "জনশ্রুতি",
+                            "অনমনীয়",
+                            "খাসমহল",
+                            "তপোবন"
+                        ],
+                        "answer": 2
+                    }, {
+                        "question": "নিচের কোনটি বিশেষ্য পদ?",
+                        "options": [
+                            "জাত",
+                            "গৈরিক",
+                            "ইত",
+                            "গাম্ভীর্য"
+                        ],
+                        "answer": 4
+                    }, {
+                        "question": "নিচের কোন শব্দে ণ-ত্ব বিধি অনুসারে ‘ণ’ এর ব্যবহার হয়েছে?",
+                        "options": [
+                            "কল্যাণ",
+                            "প্রবণ",
+                            "নিক্বণ",
+                            "বিপণি"
+                        ],
+                        "answer": 3
+                    },
+                    {
+                        "question": "“মিথ্যাবাদীকে সবাই অপছন্দ করে”- বাক্যটিকে নেতিবাচক বাক্যে রূপান্তর করলে হয়—",
+                        "options": [
+                            "মিথ্যাবাদীকে সবাই পছন্দ করে",
+                            "মিথ্যাবাদী সবাই পছন্দ না করে পারে না",
+                            "মিথ্যাবাদীকে কেউ পছন্দ করে না",
+                            "মিথ্যাবাদীকে কেউ অপছন্দ করে না"
+                        ],
+                        "answer": 1
+                    },
+                    {
+                        "question": "‘Null and void’-এর বাংলা পরিভাষা কী?",
+                        "options": [
+                            "বাতিল",
+                            "পালাবদল",
+                            "মামুলি",
+                            "নিরপেক্ষ"
+                        ],
+                        "answer": 2
+                    },
+                    {
+                        "question": "‘হেড মৌলভী’ কোন কোন ভাষার শব্দ যোগে গঠিত হয়েছে?",
+                        "options": [
+                            "ইংরেজি + ফার্সি",
+                            "ইংরেজি + আরবি",
+                            "তুর্কি + আরবি",
+                            "ইংরেজি + পর্তুগিজ"
+                        ],
+                        "answer": 3
+                    },
+                    {
+                        "question": "রবীন্দ্র’-এর সঠিক সন্ধি বিচ্ছেদ কোনটি?",
+                        "options": [
+                            "রবী + ইন্দ্র",
+                            "রবী + ঈন্দ্র",
+                            "রবি + ইন্দ্র",
+                            "রবি + ঈন্দ্র"
+                        ],
+                        "answer": 4
+                    },
+                    {
+                        "question": "“এ যে আমাদের চেনা লোক”- বাক্যে ‘চেনা’ কোন পদ?",
+                        "options": [
+                            "বিশেষ্য",
+                            "অব্যয়",
+                            "ক্রিয়া",
+                            "বিশেষণ"
+                        ],
+                        "answer": 2
+                    },
+                    {
+                        "question": "‘প্রকর্ষ’ শব্দের সমার্থক শব্দ",
+                        "options": [
+                            "উৎকর্ষতা",
+                            "অপকর্ষ",
+                            "উৎকর্ষ",
+                            "অপকর্ষতা"
+                        ],
+                        "answer": 3
+                    },
+                    {
+                        "question": "কোনটি কাজী নজরুল ইসলামের রচনা নয়?",
+                        "options": [
+                            "ছায়ানট",
+                            "চক্রবাক",
+                            "রুদ্রমঙ্গল",
+                            "বালুচর"
+                        ],
+                        "answer": 1
+                    },
+                    {
+                        "question": "সবুজপত্র প্রকাশিত হয় কোন সালে?",
+                        "options": [
+                            "১৯০৯",
+                            "১৯১০",
+                            "১৯১৪",
+                            "১৯২১"
+                        ],
+                        "answer": 4
+                    },
+                    {
+                        "question": "মুক্তিযুদ্ধ বিষয়ক নাটক",
+                        "options": [
+                            "সুবচন নির্বাচনে",
+                            "রক্তাক্ত প্রান্তর",
+                            "নূরলদীনের সারা জীবন",
+                            "পায়ের আওয়াজ পাওয়া যায়"
+                        ],
+                        "answer": 1
+                    },
+                    {
+                        "question": "কোনটি জসীম উদ্দীনের নাটক?",
+                        "options": [
+                            "রাখালী",
+                            "মাটির কান্না",
+                            "বেদের মেয়ে",
+                            "বোবা কাহিনী"
+                        ],
+                        "answer": 2
+                    }
+
+                ]
+            },
+            {
+                "subject_name": "English",
+                "questions": [
+                    {
+                        "question": "“He was a rather disagreeable man.” Here the underlined word is a/an ___",
+                        "options": ["Noun", "Adjective", "Adverb", "Preposition"],
+                        "answer": "Adjective"
+                    },
+                    {
+                        "question": "This could have worked if I ____ been more far-sighted.",
+                        "options": ["had", "might", "have", "would"],
+                        "answer": "had"
+                    },
+                    {
+                        "question": "The “climax” of a plot is what happens____",
+                        "options": ["in the beginning", "at the height", "at the end", "in the confrontation"],
+                        "answer":  "at the height"
+                    },
+                    {
+                        "question": "Choose the pair of words that expresses a relationship similar to that of “Harm: Damage”",
+                        "options": ["Sweet: Sour", "Injure: Incapacitate", "Stout: Weak", "Hook: Crook"],
+                        "answer": "Injure: Incapacitate"
+                    },
+                    {
+                        "question": "Othello is a Shakespeare’s play about ___",
+                        "options": ["a Jew", "a Roman", "a Turk", "a Moor"],
+                        "answer": "a Moor"
+                    },
+                    {
+                        "question": "In the 18th century the Mughal Empire begun to –",
+                        "options": ["to discriminate", "disintegrate", "differentiate", "dislocate"],
+                        "answer": "disintegrate"
+                    },
+                    {
+                        "question": "Being fat does not necessarily kill you, but it____ the risk that you will suffer from nasty diseases",
+                        "options": ["increases (বৃদ্ধি করা)", "emphasizes (জোড় দেওয়া)", "encourages (উৎসাহ দেওয়া)", "involves (সম্পৃক্ত করা)"],
+                        "answer": "increases (বৃদ্ধি করা)"
+                    },
+                    {
+                        "question": "The poem “Isle of Innisfree” is written by—",
+                        "options": ["Dylan Thomas", "Ezra Pound", "W. H. Audeno", "W. B. Yeats"],
+                        "answer": "W. B. Yeats"
+                    },
+                    {
+                        "question": "'Riders to the sea’ is –",
+                        "options": ["an epic poem", "a novella", "a one-act play", "a theatrical adaptation of a poem"],
+                        "answer":  "a one-act play"
+                    },
+                    {
+                        "question": "“It is time to review the protocol on testing nuclear weapons.” Here the underlined word means",
+                        "options": ["Record of rules", "Procedures", "Summary of rules", "Problems"],
+                        "answer": "Record of rules"
+                    },
+                    {
+                        "question": "___ amazing song haunted me for a long time.",
+                        "options": ["These", "Those", "Thus", "That"],
+                        "answer": "That"
+                    },
+                    {
+                        "question": "Let us begin by looking at the minutes of the meeting. Here the underlined word means",
+                        "options": ["time", "record", "time frame", "written analysis"],
+                        "answer": "time frame"
+                    },
+                    {
+                        "question": "The noise level in Dhaka city has increased exponentially. Here the underlined word means",
+                        "options": ["amazingly", "shockingly", "steadily", "rapidly"],
+                        "answer": "rapidly"
+                    },
+                    {
+                        "question": "What would be the best antonym of hibernate?",
+                        "options": ["dormancy", "sluggishness", "liveliness", "Democracy"],
+                        "answer": "liveliness"
+                    },
+                    {
+                        "question": "Find the odd-man-out",
+                        "options": ["George Eliot", "Joseph Conrad", "Thomas Hardy", "James Joyce"],
+                        "answer": "George Eliot"
+                    }, {
+                        "question": "‘Child is the father of man’ is taken from the poem of –",
+                        "options": [
+                            "W. Wordsworth",
+                            "S.T. Coleridge",
+                            "P. B. Shelley",
+                            "A. C. Swinburne"
+                        ],
+                        "answer": 2
+                    },
+                    {
+                        "question": "Slow and steady_____ the race. (Fill in the gap)",
+                        "options": [
+                            "win",
+                            "wins",
+                            "has won",
+                            "won"
+                        ],
+                        "answer": 2
+                    },
+                    {
+                        "question": "“Man is a political animal”- who said this?",
+                        "options": [
+                            "Dante",
+                            "Plato",
+                            "Aristotle",
+                            "Socrates"
+                        ],
+                        "answer": 1
+                    },
+                    {
+                        "question": "Who is known as the poet of nature” in English literature?",
+                        "options": [
+                            "Lord Tennyson",
+                            "John Milton",
+                            "William Wordsworth",
+                            "John Keats"
+                        ],
+                        "answer": 4
+                    },
+                    {
+                        "question": "Identify the correct sentence?",
+                        "options": [
+                            "Yesterday, he has gone home",
+                            "Yesterday, he did gone home",
+                            "Yesterday, he had gone home",
+                            "Yesterday, he went home"
+                        ],
+                        "answer": 1
+                    }
+                ]
+            }
+        ]
+}
+
+
+
+

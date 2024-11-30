@@ -1,0 +1,50 @@
+{
+    "year": 45,
+    "subjects": [
+        {
+            "subject_name": "বাংলা",
+            "questions": [
+  
+]
+
+        },
+        {
+            "subject_name": "English",
+            "questions": [
+ 
+]
+        },
+        {
+            "subject_name": "জীববিজ্ঞান",
+            "questions":[
+ 
+]
+        },
+        {
+            "subject_name": "রসায়ন",
+            "questions":  [
+   
+  ]
+        },
+        {
+            "subject_name": "পদার্থবিজ্ঞান",
+            "questions": [
+
+          
+            ]
+        },
+        {
+            "subject_name": "উচ্চতর গনিত",
+            "questions":  [
+ 
+]
+        },
+        {
+            "subject_name": "ICT",
+            "questions": [
+ 
+ ]
+    
+             }
+    ]
+}
