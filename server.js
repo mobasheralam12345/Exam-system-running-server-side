@@ -11,6 +11,7 @@ const bcsQuestionsRoute = require('./routes/bcsquestions.route.js');
 const hscQuestionsRoute = require('./routes/hscquestions.route.js')
 const { MongoClient } = require('mongodb');
 // Hello
+//hi
 // Load environment variables from .env file
 dotenv.config();
 
