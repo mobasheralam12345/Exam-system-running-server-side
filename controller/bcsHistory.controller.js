@@ -2,7 +2,8 @@
 const History=require("../models/bcsHistory.model")
 const SubjectWiseHistory = require("../models/bcssubjectWiseHistory.model.js");
 
-// For Save the data in the database
+{/* All Questions History */}
+
 exports.saveExamResultHistory = async (req, res) => {
     try {
         const {history } = req.body;
@@ -43,7 +44,7 @@ exports.getExamResultHistory = async (req, res) => {
 
 
 {/*  Subject Wise History */}
-// For Save the data in the database
+
 exports.saveSubjectWiseResultHistory= async (req, res) => {
     try {
         const {history } = req.body;

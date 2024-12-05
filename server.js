@@ -10,7 +10,7 @@ const adminRoute = require('./routes/admin.route.js');
 const bcsQuestionsRoute = require('./routes/bcsquestions.route.js');
 const hscQuestionsRoute = require('./routes/hscquestions.route.js')
 const { MongoClient } = require('mongodb');
-//12/1/24
+
 // Load environment variables from .env file
 dotenv.config();
 
@@ -21,6 +21,7 @@ const app = express();
 app.use(express.json());
 app.use(cors()); // To allow cross-origin requests from your frontend
 app.use(bodyParser.json()); // Parse incoming JSON requests
+app.use(express.urlencoded({ extended: true }));
 
 // MongoDB connection using Mongoose
 const connectDB = async () => {

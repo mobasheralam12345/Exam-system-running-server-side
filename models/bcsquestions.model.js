@@ -19,6 +19,7 @@ const questionSchema = new mongoose.Schema({
     type: String,
     required: true,
   }
+
 });
 
 const subjectSchema = new mongoose.Schema({

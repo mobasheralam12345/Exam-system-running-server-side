@@ -1,6 +1,6 @@
 const Department = require('../models/hscquestions.model'); // Adjust the path as necessary
 
-// Hsc All questions :
+// Hsc All questions Exam:
 
 exports.getHscQuestionsByDepartment = async (req, res) => {
   try {

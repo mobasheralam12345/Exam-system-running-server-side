@@ -2,7 +2,8 @@
 const HscHistory = require("../models/hscHistory.model")
 const HscSubjectWiseHistory = require('../models/hscSubjectWiseHistory.model')
 
-// For Save the data in the database
+{/* Hsc All Questions History */}
+
 exports.saveHscExamResultHistory = async (req, res) => {
     try {
         const {history } = req.body;
@@ -43,9 +44,8 @@ exports.getHscExamResultHistory = async (req, res) => {
 };
 
 
- {/* For Hsc Subject Wise Exam History: */}
+ {/*  Hsc Subject Wise Exam History: */}
 
-// For Save the data in the database
 exports.saveHscSubjectWiseResultHistory= async (req, res) => {
     try {
         const {history } = req.body;
