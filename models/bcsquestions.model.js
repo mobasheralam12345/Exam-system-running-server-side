@@ -1,49 +1,41 @@
-const mongoose = require('mongoose');
+const mongoose = require("mongoose");
 
 const questionSchema = new mongoose.Schema({
-  question: {
-    type: String,
-    required: true,
-  },
-  options: {
-    type: [String],
-    required: true,
-    validate: {
-      validator: function (v) {
-        return v.length >= 2; // Ensure there are at least two options
-      },
-      message: 'A question must have at least two options.',
+    bcsYear: {
+        type: Number,
+        required: true
     },
-  },
-  answer: {
-    type: String,
-    required: true,
-  }
+    subject: {
+        type: String,
+        required: true
+    },
+    questionText: {
+        type: String,
+        required: true
+    },
+    options: {
+        type: Object,
+        required: true,
+        validate: {
+            validator: function(options) {
+                return ["A", "B", "C", "D"].every(key => options.hasOwnProperty(key));
+            },
+            message: "Options must include keys: A, B, C, D."
+        }
+    },
+    correctAnswer: {
+        type: String,
+        enum: ["A", "B", "C", "D"],
+        required: true
+    },
+    explanation: {
+        type: String,
+        default: ""
+    }
+}, { timestamps: true });
 
-});
+if (mongoose.models.BCSQuestion) {
+    mongoose.deleteModel('BCSQuestion');
+}
 
-const subjectSchema = new mongoose.Schema({
-  subject_name: {
-    type: String,
-    required: true,
-  },
-  questions: {
-    type: [questionSchema],
-    default: [],
-  }
-});
-
-const bcsYearSchema = new mongoose.Schema({
-  year: {
-    type: Number,
-    required: true,
-    unique: true, // Ensure each year is unique
-  },
-  subjects: {
-    type: [subjectSchema],
-    default: [],
-  }
-});
-
-// Export the model
-module.exports = mongoose.model('bcsyear', bcsYearSchema);
+module.exports = mongoose.model("BCSQuestion", questionSchema);
