@@ -1,9 +1,9 @@
-//const Department = require("../models/hscquestions.model"); // Adjust the path as necessary
+const Department = require("../models/hscquestions.model"); // Adjust the path as necessary
 const PreviousHscQuestion = require("../models/hscPreviousYear.model");
 
 // Hsc All questions Exam:
 
-/* exports.getHscQuestionsByDepartment = async (req, res) => {
+exports.getHscQuestionsByDepartment = async (req, res) => {
   try {
     const { department } = req.params; // Extract department name from the request parameters
 
@@ -24,7 +24,7 @@ const PreviousHscQuestion = require("../models/hscPreviousYear.model");
       .json({ message: "Failed to fetch questions", error: error.message });
   }
 };
- */
+
 exports.getPrevHscQuestions = async (req, res) => {
   const { group, board, examYear } = req.params; // Extract parameters from the request
 
