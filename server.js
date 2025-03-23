@@ -1,14 +1,14 @@
 // Import required modules
-const express = require('express');
-const mongoose = require('mongoose');
-const dotenv = require('dotenv');
-const cors = require('cors');
-const bodyParser = require('body-parser');
-const Question = require('./models/bcsquestions.model.js');
-const registrationRoute = require('./routes/registration.route');
-const adminRoute = require('./routes/admin.route.js');
-const bcsQuestionsRoute = require('./routes/bcsquestions.route.js');
-const hscQuestionsRoute = require('./routes/hscquestions.route.js');
+const express = require("express");
+const mongoose = require("mongoose");
+const dotenv = require("dotenv");
+const cors = require("cors");
+const bodyParser = require("body-parser");
+const Question = require("./models/bcsquestions.model.js");
+const registrationRoute = require("./routes/registration.route");
+const adminRoute = require("./routes/admin.route.js");
+const bcsQuestionsRoute = require("./routes/bcsquestions.route.js");
+const hscQuestionsRoute = require("./routes/hscquestions.route.js");
 
 // Load environment variables from .env file
 dotenv.config();
@@ -28,9 +28,9 @@ const connectDB = async () => {
       useNewUrlParser: true,
       useUnifiedTopology: true,
     });
-    console.log('✅ MongoDB Connected');
+    console.log("✅ MongoDB Connected");
   } catch (error) {
-    console.error('❌ Error connecting to MongoDB:', error);
+    console.error("❌ Error connecting to MongoDB:", error);
     process.exit(1); // Exit with failure
   }
 };
@@ -39,43 +39,44 @@ const connectDB = async () => {
 connectDB();
 
 // Define a simple route
-app.get('/', (req, res) => {
-  res.send('API is running...');
+app.get("/", (req, res) => {
+  res.send("API is running...");
 });
 
 // Route to get all questions
-app.get('/api/questions', async (req, res) => {
+app.get("/api/questions", async (req, res) => {
   try {
     const questions = await Question.find();
     res.json(questions);
   } catch (error) {
-    res.status(500).json({ message: 'Error fetching questions', error });
+    res.status(500).json({ message: "Error fetching questions", error });
   }
 });
 
 // For registration, login
-app.use('/api/auth', registrationRoute);
+app.use("/api/auth", registrationRoute);
 // For admin
-app.use('/admin', adminRoute);
+app.use("/admin", adminRoute);
 // Fetch the BCS exam questions
-app.use('/bcs-questions', bcsQuestionsRoute);
+app.use("/bcs-questions", bcsQuestionsRoute);
 // Fetch the HSC exam questions
-app.use('/hsc-questions', hscQuestionsRoute);
+app.use("/hsc-questions", hscQuestionsRoute);
 
 // Save BCS questions
-app.post('/api/questions', async (req, res) => {
+app.post("/api/questions", async (req, res) => {
   const { bcsYear, questions } = req.body;
 
   try {
-    const formattedQuestions = Object.entries(questions).flatMap(([subject, qs]) =>
-      qs.map((q) => ({ ...q, subject, bcsYear }))
+    console.log("came\n");
+    const formattedQuestions = Object.entries(questions).flatMap(
+      ([subject, qs]) => qs.map((q) => ({ ...q, subject, bcsYear }))
     );
 
     await Question.insertMany(formattedQuestions);
-    res.status(201).send({ message: 'Questions saved successfully!' });
+    res.status(201).send({ message: "Questions saved successfully!" });
   } catch (error) {
-    console.error('❌ Error saving questions:', error);
-    res.status(500).send({ error: 'Failed to save questions.' });
+    console.error("❌ Error saving questions:", error);
+    res.status(500).send({ error: "Failed to save questions." });
   }
 });
 
@@ -86,8 +87,8 @@ app.listen(PORT, () => {
 });
 
 // Close MongoDB connection when shutting down the app
-process.on('SIGINT', async () => {
+process.on("SIGINT", async () => {
   await mongoose.connection.close();
-  console.log('🛑 MongoDB connection closed');
+  console.log("🛑 MongoDB connection closed");
   process.exit(0);
 });

@@ -40,9 +40,7 @@ exports.getQuestions = async (req, res) => {
 
       res.json(response); // Return grouped questions by subject
     } else {
-      res
-        .status(404)
-        .json({ message: "No questions found for the specified year." });
+      return res.status(200).json({ questions: null });
     }
   } catch (error) {
     console.error("Error fetching questions:", error); // Log the error for debugging
@@ -78,9 +76,7 @@ exports.getBcsQuestionsBySubjectWise = async (req, res) => {
       .exec();
 
     if (questions.length === 0) {
-      return res
-        .status(404)
-        .json({ message: "No questions found for this subject." });
+      return res.status(200).json({ questions: null });
     }
 
     // Convert options object to an array and process each question
