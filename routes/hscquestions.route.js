@@ -4,6 +4,8 @@ const {
   getHscQuestionsBySubjectWise,
   savePrevHscQuestions,
   getPrevHscQuestions,
+  getHSCOthersQuestions,
+  SaveHSCOthersQuestions,
 } = require("../controller/hscquestions.controller");
 const {
   saveHscExamResultHistory,
@@ -35,5 +37,9 @@ router.get("/get-result-history", getHscExamResultHistory);
 // Hsc Subject Wise Exam History :
 router.post("/save-hsc-subjectWise-history", saveHscSubjectWiseResultHistory);
 router.get("/get-hsc-subjectWise-history", getHscSubjectWiseResultHistory);
+
+//HSC others
+router.post("/saveOthersQuestions", SaveHSCOthersQuestions);
+router.get("/getOthersQuestions", getHSCOthersQuestions);
 
 module.exports = router;

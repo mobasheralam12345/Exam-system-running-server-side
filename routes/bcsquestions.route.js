@@ -1,24 +1,37 @@
-const express = require('express');
-const { getQuestions ,getBcsQuestionsBySubjectWise} = require('../controller/bcsquestions.controller.js');
-const {saveExamResultHistory , getExamResultHistory,
-    saveSubjectWiseResultHistory,getSubjectWiseResultHistory} = require('../controller/bcsHistory.controller.js')
+const express = require("express");
+const {
+  getQuestions,
+  getBcsQuestionsBySubjectWise,
+  SaveBCSOthersQuestions,
+  getBCSOthersQuestions,
+} = require("../controller/bcsquestions.controller.js");
+const {
+  saveExamResultHistory,
+  getExamResultHistory,
+  saveSubjectWiseResultHistory,
+  getSubjectWiseResultHistory,
+} = require("../controller/bcsHistory.controller.js");
 
 const router = express.Router();
 
 //  All Bcs questions exam
-router.get('/get-questions/:year',getQuestions);
+router.get("/get-questions/:year", getQuestions);
 // Subject wise bcs questions exam
-router.get('/get-questions/:subject/:totalQuestions', getBcsQuestionsBySubjectWise);
-
+router.get(
+  "/get-questions/:subject/:totalQuestions",
+  getBcsQuestionsBySubjectWise
+);
 
 // All Questions History
-router.post('/save-result', saveExamResultHistory);
-router.get('/get-result-history', getExamResultHistory);
+router.post("/save-result", saveExamResultHistory);
+router.get("/get-result-history", getExamResultHistory);
 
 // Subject-Wise-Exam History
-router.post('/save-subject-wise-history', saveSubjectWiseResultHistory);
-router.get('/get-subject-wise-history', getSubjectWiseResultHistory)
+router.post("/save-subject-wise-history", saveSubjectWiseResultHistory);
+router.get("/get-subject-wise-history", getSubjectWiseResultHistory);
+
+//others questions
+router.post("/saveOthersQuestions", SaveBCSOthersQuestions);
+router.get("/getOthersQuestions", getBCSOthersQuestions);
 
 module.exports = router;
-
-

@@ -1,5 +1,6 @@
 const BcsYear = require("../models/bcsquestions.model"); // Ensure model name matches your export
 const BCSQuestion = require("../models/bcsquestions.model");
+const BCSOthers = require("../models/bcsOthers.model");
 
 {
   /* All Questions Exam */
@@ -92,5 +93,68 @@ exports.getBcsQuestionsBySubjectWise = async (req, res) => {
   } catch (error) {
     console.error(error);
     res.status(500).json({ message: "Server error. Please try again later." });
+  }
+};
+
+//save BCS others questions
+
+exports.SaveBCSOthersQuestions = async (req, res) => {
+  try {
+    const questions = req.body;
+
+    if (!Array.isArray(questions) || questions.length === 0) {
+      return res.status(400).json({
+        message: "Request body should be a non-empty array of questions.",
+      });
+    }
+    await BCSOthers.deleteMany({});
+
+    const savedQuestions = await BCSOthers.insertMany(questions);
+    res.status(201).json({
+      message: `${savedQuestions.length} question(s) saved successfully.`,
+      data: savedQuestions,
+    });
+  } catch (error) {
+    console.error("Error saving questions to BCSOthers:", error);
+    res.status(500).json({ message: "Server error while saving questions." });
+  }
+};
+
+exports.getBCSOthersQuestions = async (req, res) => {
+  try {
+    const questions = await BCSOthers.find();
+
+    if (questions.length === 0) {
+      return res.status(404).json({ message: "No questions found." });
+    }
+
+    const modifiedQuestions = questions.map((q) => {
+      let optionsArray = [];
+
+      if (
+        q.options &&
+        typeof q.options === "object" &&
+        q.options.A &&
+        q.options.B &&
+        q.options.C &&
+        q.options.D
+      ) {
+        optionsArray = [q.options.A, q.options.B, q.options.C, q.options.D];
+      }
+
+      return {
+        ...q.toObject(),
+        options: optionsArray,
+      };
+    });
+
+    res.status(200).json({
+      message: `${modifiedQuestions.length} question(s) found.`,
+      data: modifiedQuestions,
+    });
+  } catch (error) {
+    res
+      .status(500)
+      .json({ message: "Error fetching questions", error: error.message });
   }
 };
