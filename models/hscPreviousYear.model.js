@@ -40,7 +40,7 @@ const questionSchema = new mongoose.Schema(
       required: true,
       enum: [
         "Dhaka",
-        "Chattogram",
+        "Chittagong",
         "Rajshahi",
         "Barishal",
         "Comilla",
