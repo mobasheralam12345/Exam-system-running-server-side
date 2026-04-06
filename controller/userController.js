@@ -2,7 +2,7 @@ const User = require("../models/User/users");
 const bcrypt = require("bcrypt");
 const jwt = require("jsonwebtoken");
 const crypto = require("crypto");
-const { sendResetPasswordEmail } = require("../utils/emailService"); // Import your email function
+const { sendPasswordResetCode, sendEmailVerificationCode } = require("../utils/emailService");
 
 // Registration
 const registerUser = async (req, res) => {
@@ -13,7 +13,6 @@ const registerUser = async (req, res) => {
       email,
       phone,
       address,
-      image,
       collegeOrUniversity,
       password,
     } = req.body;
@@ -31,26 +30,37 @@ const registerUser = async (req, res) => {
         .json({ message: "Username or email already registered." });
     }
 
+    // Get image URL from multer/cloudinary upload
+    // If file was uploaded, req.file.path contains the Cloudinary URL
+    const imageUrl = req.file ? req.file.path : null;
+
     const newUser = new User({
       username,
       name,
       email,
       phone,
       address,
-      image,
+      image: imageUrl, // Store Cloudinary URL from multer
       collegeOrUniversity,
       password, // hashed by schema pre-save
+      isEmailVerified: false,
     });
+
+    // Generate 6-digit verification code
+    const verificationCode = Math.floor(100000 + Math.random() * 900000).toString();
+    const hashedCode = await bcrypt.hash(verificationCode, 10);
+
+    newUser.emailVerificationCode = hashedCode;
+    newUser.emailVerificationCodeExpires = Date.now() + 600000; // 10 minutes
 
     await newUser.save();
 
+    // Send verification email
+    await sendEmailVerificationCode(newUser.email, verificationCode, newUser.username);
+
     res.status(201).json({
-      message: "User registration successful.",
-      user: {
-        id: newUser._id,
-        username: newUser.username,
-        email: newUser.email,
-      },
+      message: "Registration successful. Please check your email to verify your account.",
+      email: newUser.email,
     });
   } catch (error) {
     console.error("User registration error:", error);
@@ -75,6 +85,15 @@ const loginUser = async (req, res) => {
     const isMatch = await user.comparePassword(password);
     if (!isMatch)
       return res.status(401).json({ message: "Invalid credentials." });
+
+    // Check if email is verified
+    if (!user.isEmailVerified) {
+      return res.status(403).json({ 
+        message: "Please verify your email before logging in.",
+        email: user.email,
+        requiresVerification: true
+      });
+    }
 
     const token = jwt.sign(
       { userId: user._id, username: user.username },
@@ -135,7 +154,7 @@ const updateUserProfile = async (req, res) => {
   }
 };
 
-// Request password reset: generate token, save hashed token, and send email using EmailService
+// Request password reset: generate 6-digit code, save hashed code, and send email
 const requestPasswordReset = async (req, res) => {
   try {
     const { email } = req.body;
@@ -144,18 +163,17 @@ const requestPasswordReset = async (req, res) => {
     const user = await User.findOne({ email });
     if (!user) return res.status(404).json({ message: "User not found." });
 
-    const resetToken = crypto.randomBytes(32).toString("hex");
-    const hashedToken = await bcrypt.hash(resetToken, 10);
+    // Generate 6-digit code
+    const resetCode = Math.floor(100000 + Math.random() * 900000).toString();
+    const hashedCode = await bcrypt.hash(resetCode, 10);
 
-    user.resetPasswordToken = hashedToken;
-    user.resetPasswordExpires = Date.now() + 3600000;
+    user.resetPasswordCode = hashedCode;
+    user.resetPasswordCodeExpires = Date.now() + 600000; // 10 minutes
     await user.save();
 
-    const resetUrl = `${process.env.CLIENT_URL}/reset-password?token=${resetToken}&id=${user._id}`;
+    await sendPasswordResetCode(user.email, resetCode, user.username);
 
-    await sendResetPasswordEmail(user.email, resetUrl, user.username);
-
-    res.status(200).json({ message: "Password reset email sent." });
+    res.status(200).json({ message: "Password reset code sent to your email." });
   } catch (error) {
     console.error("Password reset request error:", error);
     res
@@ -164,31 +182,60 @@ const requestPasswordReset = async (req, res) => {
   }
 };
 
-// Reset password: verify token and update password
-const resetPassword = async (req, res) => {
+// Verify reset code (new endpoint)
+const verifyResetCode = async (req, res) => {
   try {
-    const { userId, token, newPassword } = req.body;
-    if (!userId || !token || !newPassword) {
-      return res.status(400).json({ message: "Missing required fields." });
+    const { email, code } = req.body;
+    if (!email || !code) {
+      return res.status(400).json({ message: "Email and code are required." });
     }
 
-    const user = await User.findById(userId);
+    const user = await User.findOne({ email });
     if (!user) return res.status(404).json({ message: "User not found." });
 
     if (
-      !user.resetPasswordToken ||
-      !user.resetPasswordExpires ||
-      user.resetPasswordExpires < Date.now()
+      !user.resetPasswordCode ||
+      !user.resetPasswordCodeExpires ||
+      user.resetPasswordCodeExpires < Date.now()
     ) {
-      return res.status(400).json({ message: "Invalid or expired token." });
+      return res.status(400).json({ message: "Invalid or expired verification code." });
     }
 
-    const isValid = await bcrypt.compare(token, user.resetPasswordToken);
-    if (!isValid) return res.status(400).json({ message: "Invalid token." });
+    const isValid = await bcrypt.compare(code, user.resetPasswordCode);
+    if (!isValid) return res.status(400).json({ message: "Invalid verification code." });
+
+    res.status(200).json({ message: "Verification code is valid." });
+  } catch (error) {
+    console.error("Verify reset code error:", error);
+    res.status(500).json({ message: "Server error during code verification." });
+  }
+};
+
+// Reset password: verify code and update password
+const resetPassword = async (req, res) => {
+  try {
+    const { email, code, newPassword } = req.body;
+    if (!email || !code || !newPassword) {
+      return res.status(400).json({ message: "Missing required fields." });
+    }
+
+    const user = await User.findOne({ email });
+    if (!user) return res.status(404).json({ message: "User not found." });
+
+    if (
+      !user.resetPasswordCode ||
+      !user.resetPasswordCodeExpires ||
+      user.resetPasswordCodeExpires < Date.now()
+    ) {
+      return res.status(400).json({ message: "Invalid or expired verification code." });
+    }
+
+    const isValid = await bcrypt.compare(code, user.resetPasswordCode);
+    if (!isValid) return res.status(400).json({ message: "Invalid verification code." });
 
     user.password = newPassword; // hashed in pre-save hook
-    user.resetPasswordToken = undefined;
-    user.resetPasswordExpires = undefined;
+    user.resetPasswordCode = undefined;
+    user.resetPasswordCodeExpires = undefined;
 
     await user.save();
 
@@ -199,11 +246,83 @@ const resetPassword = async (req, res) => {
   }
 };
 
+// Verify email with code
+const verifyEmail = async (req, res) => {
+  try {
+    const { email, code } = req.body;
+    if (!email || !code) {
+      return res.status(400).json({ message: "Email and code are required." });
+    }
+
+    const user = await User.findOne({ email });
+    if (!user) return res.status(404).json({ message: "User not found." });
+
+    if (user.isEmailVerified) {
+      return res.status(400).json({ message: "Email already verified." });
+    }
+
+    if (
+      !user.emailVerificationCode ||
+      !user.emailVerificationCodeExpires ||
+      user.emailVerificationCodeExpires < Date.now()
+    ) {
+      return res.status(400).json({ message: "Invalid or expired verification code." });
+    }
+
+    const isValid = await bcrypt.compare(code, user.emailVerificationCode);
+    if (!isValid) return res.status(400).json({ message: "Invalid verification code." });
+
+    user.isEmailVerified = true;
+    user.emailVerificationCode = undefined;
+    user.emailVerificationCodeExpires = undefined;
+
+    await user.save();
+
+    res.status(200).json({ message: "Email verified successfully. You can now login." });
+  } catch (error) {
+    console.error("Verify email error:", error);
+    res.status(500).json({ message: "Server error during email verification." });
+  }
+};
+
+// Resend verification code
+const resendVerificationCode = async (req, res) => {
+  try {
+    const { email } = req.body;
+    if (!email) return res.status(400).json({ message: "Email is required." });
+
+    const user = await User.findOne({ email });
+    if (!user) return res.status(404).json({ message: "User not found." });
+
+    if (user.isEmailVerified) {
+      return res.status(400).json({ message: "Email already verified." });
+    }
+
+    // Generate new 6-digit code
+    const verificationCode = Math.floor(100000 + Math.random() * 900000).toString();
+    const hashedCode = await bcrypt.hash(verificationCode, 10);
+
+    user.emailVerificationCode = hashedCode;
+    user.emailVerificationCodeExpires = Date.now() + 600000; // 10 minutes
+    await user.save();
+
+    await sendEmailVerificationCode(user.email, verificationCode, user.username);
+
+    res.status(200).json({ message: "Verification code sent to your email." });
+  } catch (error) {
+    console.error("Resend verification code error:", error);
+    res.status(500).json({ message: "Server error sending verification code." });
+  }
+};
+
 module.exports = {
   registerUser,
   loginUser,
   getUserProfile,
   updateUserProfile,
   requestPasswordReset,
+  verifyResetCode,
   resetPassword,
+  verifyEmail,
+  resendVerificationCode,
 };

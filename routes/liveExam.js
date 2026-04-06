@@ -22,13 +22,45 @@ const {
   getUserRegistrations,
 } = require("../controller/liveExamController/liveExamRegistration.controller");
 
+const {
+  getCurrentDemoExam,
+  getNextDemoExam,
+  getDemoExamSchedulerStatus,
+  createDemoExamManually,
+} = require("../controller/demoExamController");
+
+const {
+  getCurrentPracticeExam,
+  registerForPracticeExam,
+  checkPracticeRegistration,
+  getPracticeExamSchedulerStatus,
+} = require("../controller/practiceExamController");
+
 const optionalAuth = require("../middleware/optionalAuth");
 const authMiddleware = require("../middleware/userAuthMiddleware");
+
+const {
+  setReminder,
+  removeReminder,
+  getUserReminders,
+} = require("../controller/liveExamController/reminderController");
 
 const router = express.Router();
 
 // POST routes
 router.post("/create", createLiveExam);
+
+// Demo exam routes
+router.get("/demo/current", optionalAuth, getCurrentDemoExam);
+router.get("/demo/next", getNextDemoExam);
+router.get("/demo/status", getDemoExamSchedulerStatus);
+router.post("/demo/create", authMiddleware, createDemoExamManually); // Admin only
+
+// Practice exam routes
+router.get("/practice/current", optionalAuth, getCurrentPracticeExam);
+router.post("/practice/register", authMiddleware, registerForPracticeExam);
+router.get("/practice/registration/:examId", authMiddleware, checkPracticeRegistration);
+router.get("/practice/status", getPracticeExamSchedulerStatus);
 
 // Submit submission
 router.post("/submit", submitExam);
@@ -105,6 +137,11 @@ router.get("/mock", optionalAuth, async (req, res) => {
 router.post("/register", authMiddleware, registerForExam);
 router.get("/registration/:examId", authMiddleware, checkRegistration);
 router.get("/registration/user/:userId", authMiddleware, getUserRegistrations);
+
+// Reminder routes (require authentication)
+router.post("/reminder", authMiddleware, setReminder);
+router.delete("/reminder/:examId", authMiddleware, removeReminder);
+router.get("/reminders", authMiddleware, getUserReminders);
 
 // Use optional auth middleware - works for both authenticated and unauthenticated users
 // If user is authenticated, filters out exams they've already participated in
